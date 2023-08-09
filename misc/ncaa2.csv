@@ -1,0 +1,1092 @@
+,Unnamed: 0,school,team,city,state_province,primary_conference,ncaa,team_page,svg_url
+0,0,Abilene Christian University,Wildcats,Abilene,TX,Western Athletic Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+1,1,Alabama Agricultural and Mechanical University,Bulldogs,Normal,AL,Southwestern Athletic Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+2,2,Alabama State University,Hornets,Montgomery,AL,Southwestern Athletic Conference,1,/wiki/Delaware_State_Hornets,https://upload.wikimedia.org/wikipedia/en/d/db/Delaware_State_Hornets_logo.svg
+3,3,Alcorn State University,Braves,Lorman,MS,Southwestern Athletic Conference,1,/wiki/Bradley_Braves,https://upload.wikimedia.org/wikipedia/commons/7/7b/Bradley_Braves_logo.svg
+4,4,American University,Eagles,Washington,DC,Patriot League,1,,
+5,5,Appalachian State University,Mountaineers,Boone,NC,Sun Belt Conference,1,/wiki/West_Virginia_Mountaineers,https://upload.wikimedia.org/wikipedia/commons/e/e8/West_Virginia_Mountaineers_logo.svg
+6,6,Arizona State University,Sun Devils,Tempe,AZ,Pac-12 Conference,1,/wiki/Arizona_State_Sun_Devils,https://upload.wikimedia.org/wikipedia/en/0/0a/Arizona_State_Sun_Devils_logo.svg
+7,7,Arkansas State University,Red Wolves,Jonesboro,AR,Sun Belt Conference,1,/wiki/Arkansas_State_Red_Wolves,https://upload.wikimedia.org/wikipedia/en/3/36/Arkansas_State_Red_Wolves_logo.svg
+8,8,Auburn University,Tigers,Auburn,AL,Southeastern Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+9,9,Austin Peay State University,Governors,Clarksville,TN,ASUN Conference,1,/wiki/Austin_Peay_Governors,https://upload.wikimedia.org/wikipedia/en/a/a8/Austin_Peay_Governors_logo.svg
+10,10,Ball State University,Cardinals,Muncie,IN,Mid-American Conference,1,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+11,11,Baylor University,Bears,Waco,TX,Big 12 Conference,1,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+12,12,Belmont University,Bruins,Nashville,TN,Missouri Valley Conference,1,,
+13,13,Bethune–Cookman University,Wildcats,Daytona Beach,FL,Southwestern Athletic Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+14,14,Boise State University,Broncos,Boise,ID,Mountain West Conference,1,/wiki/Western_Michigan_Broncos,https://upload.wikimedia.org/wikipedia/en/b/b0/Western_Michigan_Broncos_%282021%29_logo.svg
+15,15,Boston College,Eagles,Chestnut Hill,MA,Atlantic Coast Conference,1,,
+16,16,Boston University,Terriers,Boston,MA,Patriot League,1,/wiki/Wofford_Terriers,https://upload.wikimedia.org/wikipedia/en/5/5b/Wofford_Terriers_logo.svg
+17,17,Bowling Green State University,Falcons,Bowling Green,OH,Mid-American Conference,1,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+18,18,Bradley University,Braves,Peoria,IL,Missouri Valley Conference,1,/wiki/Bradley_Braves,https://upload.wikimedia.org/wikipedia/commons/7/7b/Bradley_Braves_logo.svg
+19,19,Brigham Young University,Cougars,Provo,UT,West Coast Conference,1,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+20,20,Brown University,Bears,Providence,RI,Ivy League,1,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+21,21,Bryant University,Bulldogs,Smithfield,RI,America East Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+22,22,Bucknell University,Bison,Lewisburg,PA,Patriot League,1,/wiki/North_Dakota_State_Bison,https://upload.wikimedia.org/wikipedia/en/7/74/North_Dakota_State_Bison_logo.svg
+23,23,Butler University,Bulldogs,Indianapolis,IN,Big East Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+24,24,California Baptist University,Lancers,Riverside,CA,Western Athletic Conference,1,/wiki/Longwood_Lancers,https://upload.wikimedia.org/wikipedia/en/5/5f/Longwood_Lancers_logo.svg
+25,25,California Polytechnic State University,Mustangs,San Luis Obispo,CA,Big West Conference,1,/wiki/SMU_Mustangs,https://upload.wikimedia.org/wikipedia/commons/3/33/SMU_Mustang_logo.svg
+26,26,"California State University, Bakersfield",Roadrunners,Bakersfield,CA,Big West Conference,1,/wiki/UTSA_Roadrunners,https://upload.wikimedia.org/wikipedia/commons/8/84/UTSA_Roadrunners_logo.svg
+27,27,"California State University, Fresno",Bulldogs,Fresno,CA,Mountain West Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+28,28,"California State University, Fullerton",Titans,Fullerton,CA,Big West Conference,1,/wiki/Detroit_Mercy_Titans,https://upload.wikimedia.org/wikipedia/en/a/a6/Detroit_Titans_logo.svg
+29,29,"California State University, Long Beach",Beach,Long Beach,CA,Big West Conference,1,/wiki/Long_Beach_State_Beach,https://upload.wikimedia.org/wikipedia/commons/2/29/Long_Beach_State_Athletics_logo.svg
+30,30,"California State University, Northridge",Matadors,Los Angeles,CA,Big West Conference,1,/wiki/Cal_State_Northridge_Matadors,https://upload.wikimedia.org/wikipedia/en/5/51/CSUN_Matadors_logo.svg
+31,31,"California State University, Sacramento",Hornets,Sacramento,CA,Big Sky Conference,1,/wiki/Delaware_State_Hornets,https://upload.wikimedia.org/wikipedia/en/d/db/Delaware_State_Hornets_logo.svg
+32,32,Campbell University,Fighting Camels,Buies Creek,NC,Big South Conference,1,/wiki/Campbell_Fighting_Camels_and_Lady_Camels,https://upload.wikimedia.org/wikipedia/en/8/84/Campbell_Fighting_Camels_logo.svg
+33,33,Canisius College,Golden Griffins,Buffalo,NY,Metro Atlantic Athletic Conference,1,/wiki/Canisius_Golden_Griffins,https://upload.wikimedia.org/wikipedia/en/d/dd/Canisius_Golden_Griffins.svg
+34,34,Central Connecticut State University,Blue Devils,New Britain,CT,Northeast Conference,1,/wiki/Duke_Blue_Devils,https://upload.wikimedia.org/wikipedia/commons/e/e1/Duke_Athletics_logo.svg
+35,35,Central Michigan University,Chippewas,Mount Pleasant,MI,Mid-American Conference,1,/wiki/Central_Michigan_Chippewas,https://upload.wikimedia.org/wikipedia/commons/2/2a/Central_Michigan_Chippewas_logo.svg
+36,36,Charleston Southern University,Buccaneers,North Charleston,SC,Big South Conference,1,/wiki/East_Tennessee_State_Buccaneers,https://upload.wikimedia.org/wikipedia/commons/a/ab/East_Tennessee_State_Buccaneers_logo.svg
+37,37,Chicago State University,Cougars,Chicago,IL,Independent,1,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+38,38,Clemson University,Tigers,Clemson,SC,Atlantic Coast Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+39,39,Cleveland State University,Vikings,Cleveland,OH,Horizon League,1,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+40,40,Coastal Carolina University,Chanticleers,Conway,SC,Sun Belt Conference,1,/wiki/Coastal_Carolina_Chanticleers,https://upload.wikimedia.org/wikipedia/en/e/ef/Coastal_Carolina_Chanticleers_logo.svg
+41,41,Colgate University,Raiders,Hamilton,NY,Patriot League,1,/wiki/Wright_State_Raiders,https://upload.wikimedia.org/wikipedia/en/c/c2/Wright_State_Raiders_logo.svg
+42,42,College of Charleston,Cougars,Charleston,SC,Colonial Athletic Association,1,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+43,43,College of the Holy Cross,Crusaders,Worcester,MA,Patriot League,1,/wiki/Holy_Cross_Crusaders,https://upload.wikimedia.org/wikipedia/commons/f/f5/Holy_Cross_Crusaders_logo.svg
+44,44,Colorado State University,Rams,Fort Collins,CO,Mountain West Conference,1,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+45,45,Columbia University in the City of New York,Lions,New York,NY,Ivy League,1,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+46,46,Coppin State University,Eagles,Baltimore,MD,Mid-Eastern Athletic Conference,1,,
+47,47,Cornell University,Big Red,Ithaca,NY,Ivy League,1,/wiki/Cornell_Big_Red,https://upload.wikimedia.org/wikipedia/en/9/9b/Cornell_Big_Red_logo.svg
+48,48,Creighton University,Bluejays,Omaha,NE,Big East Conference,1,/wiki/Creighton_Bluejays,https://upload.wikimedia.org/wikipedia/en/6/6f/Creighton_Bluejays_logo.svg
+49,49,Dartmouth College,Big Green,Hanover,NH,Ivy League,1,/wiki/Dartmouth_Big_Green,https://upload.wikimedia.org/wikipedia/commons/a/af/Dartmouth_College_Big_Green_logo.svg
+50,50,Davidson College,Wildcats,Davidson,NC,Atlantic 10 Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+51,51,Delaware State University,Hornets,Dover,DE,Mid-Eastern Athletic Conference,1,/wiki/Delaware_State_Hornets,https://upload.wikimedia.org/wikipedia/en/d/db/Delaware_State_Hornets_logo.svg
+52,52,DePaul University,Blue Demons,Chicago,IL,Big East Conference,1,/wiki/DePaul_Blue_Demons,https://upload.wikimedia.org/wikipedia/commons/1/1f/DePaul_Blue_Demons_Logo.png
+53,53,Drake University,Bulldogs,Des Moines,IA,Missouri Valley Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+54,54,Drexel University,Dragons,Philadelphia,PA,Colonial Athletic Association,1,/wiki/Drexel_Dragons,https://upload.wikimedia.org/wikipedia/en/1/16/Drexel_Dragons_logo.svg
+55,55,Duke University,Blue Devils,Durham,NC,Atlantic Coast Conference,1,/wiki/Duke_Blue_Devils,https://upload.wikimedia.org/wikipedia/commons/e/e1/Duke_Athletics_logo.svg
+56,56,Duquesne University of the Holy Spirit,Dukes,Pittsburgh,PA,Atlantic 10 Conference,1,/wiki/James_Madison_Dukes,https://upload.wikimedia.org/wikipedia/commons/6/6d/James_Madison_University_Athletics_logo.svg
+57,57,East Carolina University,Pirates,Greenville,NC,American Athletic Conference,1,/wiki/Seton_Hall_Pirates,https://upload.wikimedia.org/wikipedia/en/e/e1/Seton_Hall_Pirates_logo.svg
+58,58,Eastern Illinois University,Panthers,Charleston,IL,Ohio Valley Conference,1,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+59,59,Eastern Kentucky University,Colonels,Richmond,KY,ASUN Conference,1,/wiki/Nicholls_Colonels,https://upload.wikimedia.org/wikipedia/en/b/bb/Nicholls_State_Colonels_logo.svg
+60,60,Eastern Michigan University,Eagles,Ypsilanti,MI,Mid-American Conference,1,,
+61,61,Eastern Washington University,Eagles,Cheney,WA,Big Sky Conference,1,,
+62,62,East Tennessee State University,Buccaneers,Johnson City,TN,Southern Conference,1,/wiki/East_Tennessee_State_Buccaneers,https://upload.wikimedia.org/wikipedia/commons/a/ab/East_Tennessee_State_Buccaneers_logo.svg
+63,63,Elon University,Phoenix,Elon,NC,Colonial Athletic Association,1,/wiki/Green_Bay_Phoenix,https://upload.wikimedia.org/wikipedia/commons/1/17/Green_Bay_Phoenix_logo.svg
+64,64,Fairfield University,Stags,Fairfield,CT,Metro Atlantic Athletic Conference,1,/wiki/Fairfield_Stags,https://upload.wikimedia.org/wikipedia/commons/0/0f/Fairfield_Stags_logo.svg
+65,65,Fairleigh Dickinson University,Knights,Hackensack,NJ,Northeast Conference,1,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+66,66,Florida Agricultural and Mechanical University,Rattlers,Tallahassee,FL,Southwestern Athletic Conference,1,/wiki/Florida_A%26M_Rattlers_and_Lady_Rattlers,https://upload.wikimedia.org/wikipedia/commons/7/78/FAMU_Rattler.png
+67,67,Florida Atlantic University,Owls,Boca Raton,FL,Conference USA,1,,
+68,68,Florida Gulf Coast University,Eagles,Fort Myers,FL,ASUN Conference,1,,
+69,69,Florida International University,Panthers,Miami,FL,Conference USA,1,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+70,70,Florida State University,Seminoles,Tallahassee,FL,Atlantic Coast Conference,1,/wiki/Florida_State_Seminoles,https://upload.wikimedia.org/wikipedia/en/d/d5/Florida_State_Seminoles_logo.svg
+71,71,Fordham University,Rams,New York,NY,Atlantic 10 Conference,1,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+72,72,Furman University,Paladins,Greenville,SC,Southern Conference,1,/wiki/Furman_Paladins,https://upload.wikimedia.org/wikipedia/commons/a/aa/Furman_Paladins_logo.svg
+73,73,Gardner–Webb University,Runnin' Bulldogs,Boiling Springs,NC,Big South Conference,1,/wiki/Gardner%E2%80%93Webb_Runnin%27_Bulldogs,https://upload.wikimedia.org/wikipedia/commons/2/21/GWU_Mascot_%2722.jpg
+74,74,George Mason University,Patriots,Fairfax,VA,Atlantic 10 Conference,1,/wiki/George_Mason_Patriots,https://upload.wikimedia.org/wikipedia/en/f/f8/George_Mason_Patriots_logo.svg
+75,75,Georgetown University,Hoyas,Washington,DC,Big East Conference,1,/wiki/Georgetown_Hoyas,https://upload.wikimedia.org/wikipedia/commons/9/9f/Georgetown_Hoyas_logo.svg
+76,76,Georgia Institute of Technology,Yellow Jackets,Atlanta,GA,Atlantic Coast Conference,1,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+77,77,Georgia Southern University,Eagles,Statesboro,GA,Sun Belt Conference,1,,
+78,78,Georgia State University,Panthers,Atlanta,GA,Sun Belt Conference,1,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+79,79,Gonzaga University,Bulldogs,Spokane,WA,West Coast Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+80,80,Grambling State University,Tigers,Grambling,LA,Southwestern Athletic Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+81,81,Grand Canyon University,Antelopes,Phoenix,AZ,Western Athletic Conference,1,/wiki/Grand_Canyon_Antelopes,https://upload.wikimedia.org/wikipedia/commons/c/cf/Grand_Canyon_Antelopes_logo.svg
+82,82,Hampton University,Pirates,Hampton,VA,Big South Conference,1,/wiki/Seton_Hall_Pirates,https://upload.wikimedia.org/wikipedia/en/e/e1/Seton_Hall_Pirates_logo.svg
+83,83,Harvard University,Crimson,Cambridge,MA,Ivy League,1,/wiki/Harvard_Crimson,https://upload.wikimedia.org/wikipedia/commons/b/b7/Harvard_Crimson_logo_2020.svg
+84,84,High Point University,Panthers,High Point,NC,Big South Conference,1,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+85,85,Hofstra University,Pride,Hempstead,NY,Colonial Athletic Association,1,/wiki/Hofstra_Pride,https://upload.wikimedia.org/wikipedia/en/1/12/Hofstra_Pride_logo.svg
+86,86,Houston Baptist University,Huskies,Houston,TX,Southland Conference,1,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+87,87,Howard University,Bison,Washington,DC,Mid-Eastern Athletic Conference,1,/wiki/North_Dakota_State_Bison,https://upload.wikimedia.org/wikipedia/en/7/74/North_Dakota_State_Bison_logo.svg
+88,88,Idaho State University,Bengals,Pocatello,ID,Big Sky Conference,1,/wiki/Idaho_State_Bengals,https://upload.wikimedia.org/wikipedia/en/6/63/Idaho_State_Bengals_logo.svg
+89,89,Illinois State University,Redbirds,Normal,IL,Missouri Valley Conference,1,/wiki/Illinois_State_Redbirds,https://upload.wikimedia.org/wikipedia/en/f/f8/Illinois_State_Athletics_logo.svg
+90,90,Indiana State University,Sycamores,Terre Haute,IN,Missouri Valley Conference,1,/wiki/Indiana_State_Sycamores,https://upload.wikimedia.org/wikipedia/en/7/7f/Indiana_State_Sycamores_logo.svg
+91,91,Indiana University Bloomington,Hoosiers,Bloomington,IN,Big Ten Conference,1,/wiki/Indiana_Hoosiers,https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg
+92,92,Indiana University–Purdue University Indianapolis,Jaguars,Indianapolis,IN,Horizon League,1,/wiki/South_Alabama_Jaguars,
+93,93,Iona College,Gaels,New Rochelle,NY,Metro Atlantic Athletic Conference,1,/wiki/Saint_Mary%27s_Gaels,https://upload.wikimedia.org/wikipedia/commons/7/7c/Saint_Mary%27s_College_Gaels_logo.svg
+94,94,Iowa State University of Science and Technology,Cyclones,Ames,IA,Big 12 Conference,1,,
+95,95,Jackson State University,Tigers,Jackson,MS,Southwestern Athletic Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+96,96,Jacksonville State University,Gamecocks,Jacksonville,AL,ASUN Conference,1,/wiki/South_Carolina_Gamecocks,https://upload.wikimedia.org/wikipedia/commons/9/94/South_Carolina_Gamecocks_logo.svg
+97,97,Jacksonville University,Dolphins,Jacksonville,FL,ASUN Conference,1,/wiki/Jacksonville_Dolphins,https://upload.wikimedia.org/wikipedia/commons/e/e3/Jacksonville_Dolphins_logo_2018.svg
+98,98,James Madison University,Dukes,Harrisonburg,VA,Colonial Athletic Association,1,/wiki/James_Madison_Dukes,https://upload.wikimedia.org/wikipedia/commons/6/6d/James_Madison_University_Athletics_logo.svg
+99,99,Kansas State University of Agriculture and Applied Science,Wildcats,Manhattan,KS,Big 12 Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+100,100,Kennesaw State University,Owls,Kennesaw,GA,ASUN Conference,1,,
+101,101,Kent State University,Golden Flashes,Kent,OH,Mid-American Conference,1,/wiki/Kent_State_Golden_Flashes,https://upload.wikimedia.org/wikipedia/en/a/a6/Kent_State_athletic_logo.svg
+102,102,Lafayette College,Leopards,Easton,PA,Patriot League,1,/wiki/Lafayette_Leopards,https://upload.wikimedia.org/wikipedia/en/8/8f/Lafayette_Leopards_logo.svg
+103,103,Lamar University,Cardinals,Beaumont,TX,Western Athletic Conference,1,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+104,104,La Salle University,Explorers,Philadelphia,PA,Atlantic 10 Conference,1,/wiki/La_Salle_Explorers,https://upload.wikimedia.org/wikipedia/en/f/fb/La_Salle_Explorers_logo.svg
+105,105,Lehigh University,Mountain Hawks,Bethlehem,PA,Patriot League,1,/wiki/Lehigh_Mountain_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/LehighMountainHawks.svg
+106,106,Leland Stanford Junior University,Cardinal,Stanford,CA,Pac-12 Conference,1,/wiki/Stanford_Cardinal,https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg
+107,107,Liberty University,Flames,Lynchburg,VA,ASUN Conference,1,/wiki/UIC_Flames,
+108,108,Lipscomb University,Bisons,Nashville,TN,ASUN Conference,1,/wiki/Lipscomb_Bisons,https://upload.wikimedia.org/wikipedia/commons/4/42/Lipscomb_athletics_wordmark.svg
+109,109,Long Island University,Sharks,New York,NY,Northeast Conference,1,/wiki/LIU_Sharks,https://upload.wikimedia.org/wikipedia/en/f/fd/LIU_Sharks_logo.svg
+110,110,Longwood University,Lancers,Farmville,VA,Big South Conference,1,/wiki/Longwood_Lancers,https://upload.wikimedia.org/wikipedia/en/5/5f/Longwood_Lancers_logo.svg
+111,111,Louisiana State University and Agricultural and Mechanical College,Tigers,Baton Rouge,LA,Southeastern Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+112,112,Louisiana Tech University,Bulldogs,Ruston,LA,Conference USA,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+113,113,Loyola Marymount University,Lions,Los Angeles,CA,West Coast Conference,1,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+114,114,Loyola University Chicago,Ramblers,Chicago,IL,Atlantic 10 Conference,1,/wiki/Loyola_Ramblers,https://upload.wikimedia.org/wikipedia/en/6/69/Loyola_Ramblers_logo.svg
+115,115,Loyola University Maryland,Greyhounds,Baltimore,MD,Patriot League,1,/wiki/Loyola_Greyhounds,https://upload.wikimedia.org/wikipedia/en/e/e5/Loyola_Greyhounds_Official_Logo.png
+116,116,Manhattan College,Jaspers,New York,NY,Metro Atlantic Athletic Conference,1,/wiki/Manhattan_Jaspers_and_Lady_Jaspers,https://upload.wikimedia.org/wikipedia/commons/0/06/Manhattan_Jaspers_logo.svg
+117,117,Marist College,Red Foxes,Poughkeepsie,NY,Metro Atlantic Athletic Conference,1,/wiki/Marist_Red_Foxes,https://upload.wikimedia.org/wikipedia/en/5/5b/Marist_Red_Foxes_logo.svg
+118,118,Marquette University,Golden Eagles,Milwaukee,WI,Big East Conference,1,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+119,119,Marshall University,Thundering Herd,Huntington,WV,Conference USA,1,/wiki/Marshall_Thundering_Herd,https://upload.wikimedia.org/wikipedia/commons/4/4f/Marshall_Thundering_Herd_logo.svg
+120,120,McNeese State University,Cowboys,Lake Charles,LA,Southland Conference,1,/wiki/Wyoming_Cowboys_and_Cowgirls,https://upload.wikimedia.org/wikipedia/commons/9/91/Wyoming_Athletics_logo.svg
+121,121,Mercer University,Bears,Macon,GA,Southern Conference,1,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+122,122,Miami University,RedHawks,Oxford,OH,Mid-American Conference,1,/wiki/Miami_RedHawks,https://upload.wikimedia.org/wikipedia/commons/b/b4/Miami_Redhawks_logo.svg
+123,123,Michigan State University,Spartans,East Lansing,MI,Big Ten Conference,1,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+124,124,Middle Tennessee State University,Blue Raiders,Murfreesboro,TN,Conference USA,1,/wiki/Middle_Tennessee_Blue_Raiders,https://upload.wikimedia.org/wikipedia/commons/e/ea/Middle_Tennessee_MT_Logomark.svg
+125,125,Mississippi State University for Agriculture and Applied Science,Bulldogs,Starkville,MS,Southeastern Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+126,126,Mississippi Valley State University,Delta Devils,Itta Bena,MS,Southwestern Athletic Conference,1,/wiki/Mississippi_Valley_State_Delta_Devils_and_Devilettes,https://upload.wikimedia.org/wikipedia/en/3/3b/Mississippi_Valley_State_University_athletics_logo.svg
+127,127,Missouri State University,Bears,Springfield,MO,Missouri Valley Conference,1,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+128,128,Monmouth University,Hawks,West Long Branch,NJ,Colonial Athletic Association,1,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+129,129,Montana State University,Bobcats,Bozeman,MT,Big Sky Conference,1,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+130,130,Morehead State University,Eagles,Morehead,KY,Ohio Valley Conference,1,,
+131,131,Morgan State University,Bears,Baltimore,MD,Mid-Eastern Athletic Conference,1,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+132,132,Mount Saint Mary's University,Mountaineers,Emmitsburg,MD,Northeast Conference,1,/wiki/West_Virginia_Mountaineers,https://upload.wikimedia.org/wikipedia/commons/e/e8/West_Virginia_Mountaineers_logo.svg
+133,133,Murray State University,Racers,Murray,KY,Missouri Valley Conference,1,/wiki/Murray_State_Racers,https://upload.wikimedia.org/wikipedia/en/c/c9/Murray_State_Racers_logo.svg
+134,134,New Jersey Institute of Technology,Highlanders,Newark,NJ,America East Conference,1,/wiki/UC_Riverside_Highlanders,https://upload.wikimedia.org/wikipedia/commons/2/21/UC_Riverside_Highlanders_logo.svg
+135,135,New Mexico State University,Aggies,Las Cruces,NM,Western Athletic Conference,1,/wiki/Utah_State_Aggies,https://upload.wikimedia.org/wikipedia/commons/5/59/Utah_State_Aggies_logo.svg
+136,136,Niagara University,Purple Eagles,Lewiston,NY,Metro Atlantic Athletic Conference,1,/wiki/Niagara_Purple_Eagles,https://upload.wikimedia.org/wikipedia/en/4/44/Niagara_Purple_Eagles.svg
+137,137,Nicholls State University,Colonels,Thibodaux,LA,Southland Conference,1,/wiki/Nicholls_Colonels,https://upload.wikimedia.org/wikipedia/en/b/bb/Nicholls_State_Colonels_logo.svg
+138,138,Norfolk State University,Spartans,Norfolk,VA,Mid-Eastern Athletic Conference,1,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+139,139,North Carolina Agricultural and Technical State University,Aggies,Greensboro,NC,Big South Conference,1,/wiki/Utah_State_Aggies,https://upload.wikimedia.org/wikipedia/commons/5/59/Utah_State_Aggies_logo.svg
+140,140,North Carolina Central University,Eagles,Durham,NC,Mid-Eastern Athletic Conference,1,,
+141,141,North Carolina State University,Wolfpack,Raleigh,NC,Atlantic Coast Conference,1,/wiki/NC_State_Wolfpack,https://upload.wikimedia.org/wikipedia/commons/e/e1/North_Carolina_State_University_Athletic_logo.svg
+142,142,North Dakota State University of Agriculture and Applied Sciences,Bison,Fargo,ND,Summit League,1,/wiki/North_Dakota_State_Bison,https://upload.wikimedia.org/wikipedia/en/7/74/North_Dakota_State_Bison_logo.svg
+143,143,Northeastern University,Huskies,Boston,MA,Colonial Athletic Association,1,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+144,144,Northern Arizona University,Lumberjacks,Flagstaff,AZ,Big Sky Conference,1,/wiki/Stephen_F._Austin_Lumberjacks_and_Ladyjacks,https://upload.wikimedia.org/wikipedia/en/5/5a/Stephen_F._Austin_Athletics_logo.svg
+145,145,Northern Illinois University,Huskies,DeKalb,IL,Mid-American Conference,1,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+146,146,Northern Kentucky University,Norse,Highland Heights,KY,Horizon League,1,/wiki/Northern_Kentucky_Norse,https://upload.wikimedia.org/wikipedia/en/4/45/Northern_Kentucky_Norse_logo.svg
+147,147,Northwestern State University of Louisiana,Demons,Natchitoches,LA,Southland Conference,1,/wiki/Northwestern_State_Demons_and_Lady_Demons,https://upload.wikimedia.org/wikipedia/en/3/3d/Northwestern_State_Demons_logo.svg
+148,148,Northwestern University,Wildcats,Evanston,IL,Big Ten Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+149,149,Oakland University,Golden Grizzlies,Rochester,MI,Horizon League,1,/wiki/Oakland_Golden_Grizzlies,https://upload.wikimedia.org/wikipedia/en/8/86/Oakland_Golden_Grizzlies_logo.svg
+150,150,Oklahoma State University–Stillwater,Cowboys,Stillwater,OK,Big 12 Conference,1,/wiki/Wyoming_Cowboys_and_Cowgirls,https://upload.wikimedia.org/wikipedia/commons/9/91/Wyoming_Athletics_logo.svg
+151,151,Old Dominion University,Monarchs,Norfolk,VA,Conference USA,1,/wiki/Old_Dominion_Monarchs_and_Lady_Monarchs,https://upload.wikimedia.org/wikipedia/en/b/b4/Old_Dominion_Athletics_logo.svg
+152,152,Oral Roberts University,Golden Eagles,Tulsa,OK,Summit League,1,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+153,153,Oregon State University,Beavers,Corvallis,OR,Pac-12 Conference,1,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+154,154,Pepperdine University,Waves,Malibu,CA,West Coast Conference,1,/wiki/Pepperdine_Waves,https://upload.wikimedia.org/wikipedia/commons/f/f2/Pepperdine_Waves_logo.svg
+155,155,Portland State University,Vikings,Portland,OR,Big Sky Conference,1,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+156,156,Prairie View A&M University,Panthers,Prairie View,TX,Southwestern Athletic Conference,1,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+157,157,Presbyterian College,Blue Hose,Clinton,SC,Big South Conference,1,/wiki/Presbyterian_Blue_Hose,https://upload.wikimedia.org/wikipedia/commons/9/93/Presbyterian_College_logo.svg
+158,158,Princeton University,Tigers,Princeton,NJ,Ivy League,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+159,159,Providence College,Friars,Providence,RI,Big East Conference,1,/wiki/Providence_Friars,https://upload.wikimedia.org/wikipedia/en/9/9d/Providence_Friars_logo.svg
+160,160,Purdue University,Boilermakers,West Lafayette,IN,Big Ten Conference,1,/wiki/Purdue_Boilermakers,https://upload.wikimedia.org/wikipedia/commons/3/35/Purdue_Boilermakers_logo.svg
+161,161,Purdue University Fort Wayne,Mastodons,Fort Wayne,IN,Horizon League,1,/wiki/Purdue_Fort_Wayne_Mastodons,https://upload.wikimedia.org/wikipedia/en/1/14/Purdue_Fort_Wayne_Mastodons_logo.svg
+162,162,Quinnipiac University,Bobcats,Hamden,CT,Metro Atlantic Athletic Conference,1,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+163,163,Radford University,Highlanders,Radford,VA,Big South Conference,1,/wiki/UC_Riverside_Highlanders,https://upload.wikimedia.org/wikipedia/commons/2/21/UC_Riverside_Highlanders_logo.svg
+164,164,Rider University,Broncs,Lawrenceville,NJ,Metro Atlantic Athletic Conference,1,/wiki/Rider_Broncs,https://upload.wikimedia.org/wikipedia/en/6/62/Rider_Broncs.svg
+165,165,Robert Morris University,Colonials,Moon,PA,Horizon League,1,/wiki/George_Washington_Colonials,https://upload.wikimedia.org/wikipedia/commons/a/aa/George_Washington_Colonials_logo.svg
+166,166,Rutgers University–New Brunswick,Scarlet Knights,New Brunswick,NJ,Big Ten Conference,1,/wiki/Rutgers_Scarlet_Knights,https://upload.wikimedia.org/wikipedia/commons/b/b6/Rutgers_Scarlet_Knights_logo.svg
+167,167,Sacred Heart University,Pioneers,Fairfield,CT,Northeast Conference,1,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+168,168,Saint Bonaventure University,Bonnies,Saint Bonaventure,NY,Atlantic 10 Conference,1,/wiki/St._Bonaventure_Bonnies,https://upload.wikimedia.org/wikipedia/en/9/9c/St._Bonaventure_Bonnies_logo.svg
+169,169,Saint Francis College,Terriers,New York,NY,Northeast Conference,1,/wiki/Wofford_Terriers,https://upload.wikimedia.org/wikipedia/en/5/5b/Wofford_Terriers_logo.svg
+170,170,Saint Francis University,Red Flash,Loretto,PA,Northeast Conference,1,/wiki/Saint_Francis_Red_Flash,https://upload.wikimedia.org/wikipedia/commons/1/10/Saint_Francis_Red_Flash_logo.svg
+171,171,Saint John's University,Red Storm,New York,NY,Big East Conference,1,/wiki/St._John%27s_Red_Storm,https://upload.wikimedia.org/wikipedia/commons/6/62/St._John%27s_Red_Storm_logo.svg
+172,172,Saint Joseph's University,Hawks,Philadelphia,PA,Atlantic 10 Conference,1,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+173,173,Saint Louis University,Billikens,Saint Louis,MO,Atlantic 10 Conference,1,/wiki/Saint_Louis_Billikens,https://upload.wikimedia.org/wikipedia/en/0/03/Saint_Louis_Billikens_logo.svg
+174,174,Saint Mary's College of California,Gaels,Moraga,CA,West Coast Conference,1,/wiki/Saint_Mary%27s_Gaels,https://upload.wikimedia.org/wikipedia/commons/7/7c/Saint_Mary%27s_College_Gaels_logo.svg
+175,175,Saint Peter's University,Peacocks,Jersey City,NJ,Metro Atlantic Athletic Conference,1,/wiki/Saint_Peter%27s_Peacocks,https://upload.wikimedia.org/wikipedia/en/9/97/Saint_Peter%27s_Peacocks_logo.svg
+176,176,Samford University,Bulldogs,Homewood,AL,Southern Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+177,177,Sam Houston State University,Bearkats,Huntsvile,TX,Western Athletic Conference,1,/wiki/Sam_Houston_State_Bearkats,https://upload.wikimedia.org/wikipedia/en/d/de/SHSU_athletics_logo.svg
+178,178,San Diego State University,Aztecs,San Diego,CA,Mountain West Conference,1,/wiki/San_Diego_State_Aztecs,https://upload.wikimedia.org/wikipedia/commons/7/7c/San_Diego_State_Aztecs_logo.svg
+179,179,San Jose State University,Spartans,San Jose,CA,Mountain West Conference,1,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+180,180,Santa Clara University,Broncos,Santa Clara,CA,West Coast Conference,1,/wiki/Western_Michigan_Broncos,https://upload.wikimedia.org/wikipedia/en/b/b0/Western_Michigan_Broncos_%282021%29_logo.svg
+181,181,Seattle University,Redhawks,Seattle,WA,Western Athletic Conference,1,/wiki/Southeast_Missouri_State_Redhawks,https://upload.wikimedia.org/wikipedia/en/b/b6/SEMO_Redhawks_logo.png
+182,182,Seton Hall University,Pirates,South Orange,NJ,Big East Conference,1,/wiki/Seton_Hall_Pirates,https://upload.wikimedia.org/wikipedia/en/e/e1/Seton_Hall_Pirates_logo.svg
+183,183,Siena College,Saints,Loudonville,NY,Metro Atlantic Athletic Conference,1,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+184,184,South Carolina State University,Bulldogs,Orangeburg,SC,Mid-Eastern Athletic Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+185,185,South Dakota State University,Jackrabbits,Brookings,SD,Summit League,1,/wiki/South_Dakota_State_Jackrabbits,https://upload.wikimedia.org/wikipedia/en/2/25/South_Dakota_State_Jackrabbits_logo.svg
+186,186,Southeastern Louisiana University,Lions,Hammond,LA,Southland Conference,1,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+187,187,Southeast Missouri State University,Redhawks,Cape Girardeau,MO,Ohio Valley Conference,1,/wiki/Southeast_Missouri_State_Redhawks,https://upload.wikimedia.org/wikipedia/en/b/b6/SEMO_Redhawks_logo.png
+188,188,Southern University and A&M College,Jaguars,Baton Rouge,LA,Southwestern Athletic Conference,1,/wiki/South_Alabama_Jaguars,
+189,189,Southern Illinois University Carbondale,Salukis,Carbondale,IL,Missouri Valley Conference,1,/wiki/Southern_Illinois_Salukis,https://upload.wikimedia.org/wikipedia/en/9/9f/Southern_Illinois_Salukis_logo.svg
+190,190,Southern Illinois University Edwardsville,Cougars,Edwardsville,IL,Ohio Valley Conference,1,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+191,191,Southern Methodist University,Mustangs,University Park,TX,American Athletic Conference,1,/wiki/SMU_Mustangs,https://upload.wikimedia.org/wikipedia/commons/3/33/SMU_Mustang_logo.svg
+192,192,Southern Utah University,Thunderbirds,Cedar City,UT,Western Athletic Conference,1,/wiki/Southern_Utah_Thunderbirds,https://upload.wikimedia.org/wikipedia/en/e/e7/Southern_Utah_Thunderbirds_logo.svg
+193,193,State University of Iowa,Hawkeyes,Iowa City,IA,Big Ten Conference,1,/wiki/Iowa_Hawkeyes,https://upload.wikimedia.org/wikipedia/en/7/7b/Iowa_Hawkeyes_logo.svg
+194,194,State University of New York at Albany,Great Danes,Albany,NY,America East Conference,1,/wiki/Albany_Great_Danes,https://upload.wikimedia.org/wikipedia/en/c/c7/UAlbany_Great_Danes_logo.svg
+195,195,State University of New York at Binghamton,Bearcats,Vestal,NY,America East Conference,1,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+196,196,State University of New York at Buffalo,Bulls,Buffalo,NY,Mid-American Conference,1,/wiki/South_Florida_Bulls,https://upload.wikimedia.org/wikipedia/en/c/c1/South_Florida_Bulls_logo.svg
+197,197,State University of New York at Stony Brook,Seawolves,Stony Brook,NY,Colonial Athletic Association,1,/wiki/Stony_Brook_Seawolves,https://upload.wikimedia.org/wikipedia/en/3/35/Stony_Brook_Seawolves_logo.svg
+198,198,Stephen F. Austin State University,Lumberjacks,Nacogdoches,TX,Western Athletic Conference,1,/wiki/Stephen_F._Austin_Lumberjacks_and_Ladyjacks,https://upload.wikimedia.org/wikipedia/en/5/5a/Stephen_F._Austin_Athletics_logo.svg
+199,199,Stetson University,Hatters,DeLand,FL,ASUN Conference,1,/wiki/Stetson_Hatters,https://upload.wikimedia.org/wikipedia/en/1/17/Stetson_Hatters_logo_%282018%29.png
+200,200,Syracuse University,Orange,Syracuse,NY,Atlantic Coast Conference,1,"/wiki/Orange,_California",
+201,201,Temple University,Owls,Philadelphia,PA,American Athletic Conference,1,,
+202,202,Tennessee State University,Tigers,Nashville,TN,Ohio Valley Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+203,203,Tennessee Technological University,Golden Eagles,Cookeville,TN,Ohio Valley Conference,1,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+204,204,Texas A&M University,Aggies,College Station,TX,Southeastern Conference,1,/wiki/Utah_State_Aggies,https://upload.wikimedia.org/wikipedia/commons/5/59/Utah_State_Aggies_logo.svg
+205,205,Texas A&M University–Corpus Christi,Islanders,Corpus Christi,TX,Southland Conference,1,/wiki/Texas_A%26M%E2%80%93Corpus_Christi_Islanders,https://upload.wikimedia.org/wikipedia/en/e/eb/Texas_A%26M%E2%80%93Corpus_Christi_Islanders_logo.svg
+206,206,Texas Christian University,Horned Frogs,Fort Worth,TX,Big 12 Conference,1,/wiki/TCU_Horned_Frogs,https://upload.wikimedia.org/wikipedia/commons/1/15/TCU_Horned_Frogs_logo.svg
+207,207,Texas Southern University,Tigers,Houston,TX,Southwestern Athletic Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+208,208,Texas State University,Bobcats,San Marcos,TX,Sun Belt Conference,1,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+209,209,Texas Tech University,Red Raiders,Lubbock,TX,Big 12 Conference,1,/wiki/Texas_Tech_Red_Raiders,https://upload.wikimedia.org/wikipedia/commons/4/4e/Texas_Tech_Athletics_logo.svg
+210,210,"The Citadel, The Military College of South Carolina",Bulldogs,Charleston,SC,Southern Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+211,211,The College of William and Mary in Virginia,Tribe,Williamsburg,VA,Colonial Athletic Association,1,/wiki/William_%26_Mary_Tribe,https://upload.wikimedia.org/wikipedia/en/d/d9/William_and_Mary_Tribe_logo.svg
+212,212,The George Washington University,Colonials,Washington,DC,Atlantic 10 Conference,1,/wiki/George_Washington_Colonials,https://upload.wikimedia.org/wikipedia/commons/a/aa/George_Washington_Colonials_logo.svg
+213,213,The Ohio State University,Buckeyes,Columbus,OH,Big Ten Conference,1,/wiki/Ohio_State_Buckeyes,https://upload.wikimedia.org/wikipedia/commons/c/c1/Ohio_State_Buckeyes_logo.svg
+214,214,The Ohio University,Bobcats,Athens,OH,Mid-American Conference,1,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+215,215,The Pennsylvania State University,Nittany Lions,State College,PA,Big Ten Conference,1,/wiki/Penn_State_Nittany_Lions,https://upload.wikimedia.org/wikipedia/en/3/3a/Penn_State_Nittany_Lions_logo.svg
+216,216,The University of Akron,Zips,Akron,OH,Mid-American Conference,1,/wiki/Akron_Zips,https://upload.wikimedia.org/wikipedia/commons/0/01/Akron_Zips_logo_2022.svg
+217,217,The University of Alabama,Crimson Tide,Tuscaloosa,AL,Southeastern Conference,1,/wiki/Alabama_Crimson_Tide,https://upload.wikimedia.org/wikipedia/commons/1/12/Alabama_Athletics_logo.svg
+218,218,The University of New Mexico,Lobos,Albuquerque,NM,Mountain West Conference,1,/wiki/New_Mexico_Lobos,https://upload.wikimedia.org/wikipedia/en/4/45/New_Mexico_Lobos_logo.svg
+219,219,The University of Tennessee at Chattanooga,Mocs,Chattanooga,TN,Southern Conference,1,/wiki/Chattanooga_Mocs,https://upload.wikimedia.org/wikipedia/commons/5/5d/Chattanooga_Mocs_logo.svg
+220,220,The University of Tennessee at Martin,Skyhawks,Martin,TN,Ohio Valley Conference,1,/wiki/Stonehill_Skyhawks,https://upload.wikimedia.org/wikipedia/commons/e/ed/Stonehill_Skyhawks_logo.svg
+221,221,"The University of Tennessee, Knoxville",Volunteers,Knoxville,TN,Southeastern Conference,1,/wiki/Tennessee_Volunteers,https://upload.wikimedia.org/wikipedia/commons/e/e3/Tennessee_Volunteers_logo.svg
+222,222,The University of Texas at Arlington,Mavericks,Arlington,TX,Sun Belt Conference,1,/wiki/Omaha_Mavericks,https://upload.wikimedia.org/wikipedia/commons/7/73/Omaha_Mavericks_logo.svg
+223,223,The University of Texas at Austin,Longhorns,Austin,TX,Big 12 Conference,1,/wiki/Texas_Longhorns,https://upload.wikimedia.org/wikipedia/commons/8/8d/Texas_Longhorns_logo.svg
+224,224,The University of Texas at El Paso,Miners,El Paso,TX,Conference USA,1,/wiki/UTEP_Miners,https://upload.wikimedia.org/wikipedia/en/0/06/UTEP_Miners_logo.svg
+225,225,The University of Texas at San Antonio,Roadrunners,San Antonio,TX,Conference USA,1,/wiki/UTSA_Roadrunners,https://upload.wikimedia.org/wikipedia/commons/8/84/UTSA_Roadrunners_logo.svg
+226,226,The University of Texas Rio Grande Valley,Vaqueros,Edinburg,TX,Western Athletic Conference,1,/wiki/Texas%E2%80%93Rio_Grande_Valley_Vaqueros,https://upload.wikimedia.org/wikipedia/commons/d/dc/Texas%E2%80%93Rio_Grande_Valley_Vaqueros_logo.svg
+227,227,The University of Tulsa,Golden Hurricane,Tulsa,OK,American Athletic Conference,1,/wiki/Tulsa_Golden_Hurricane,https://upload.wikimedia.org/wikipedia/commons/c/c4/Tulsa_Golden_Hurricane_logo.svg
+228,228,The University of Vermont and State Agricultural College,Catamounts,Burlington,VT,America East Conference,1,/wiki/Western_Carolina_Catamounts,https://upload.wikimedia.org/wikipedia/en/5/50/Western_Carolina_Catamounts_logo.svg
+229,229,Towson University,Tigers,Towson,MD,Colonial Athletic Association,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+230,230,Troy University,Trojans,Troy,AL,Sun Belt Conference,1,/wiki/USC_Trojans,https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg
+231,231,Tulane University of Louisiana,Green Wave,New Orleans,LA,American Athletic Conference,1,/wiki/Tulane_Green_Wave,https://upload.wikimedia.org/wikipedia/en/2/28/Tulane_Green_Wave_logo.svg
+232,232,United States Air Force Academy,Falcons,Colorado Springs,CO,Mountain West Conference,1,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+233,233,United States Military Academy,Black Knights,West Point,NY,Patriot League,1,/wiki/Army_Black_Knights,https://upload.wikimedia.org/wikipedia/commons/0/01/Army_West_Point_logo.svg
+234,234,United States Naval Academy,Midshipmen,Annapolis,MD,Patriot League,1,/wiki/Navy_Midshipmen,https://upload.wikimedia.org/wikipedia/commons/a/a5/Navy_Athletics_logo.svg
+235,235,University of Alabama at Birmingham,Blazers,Birmingham,AL,Conference USA,1,/wiki/UAB_Blazers,https://upload.wikimedia.org/wikipedia/en/f/ff/UAB_Blazers_logo.svg
+236,236,University of Arizona,Wildcats,Tucson,AZ,Pac-12 Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+237,237,University of Arkansas,Razorbacks,Fayetteville,AR,Southeastern Conference,1,/wiki/Arkansas_Razorbacks,https://upload.wikimedia.org/wikipedia/commons/8/81/Arkansas_Razorbacks_logo.svg
+238,238,University of Arkansas at Little Rock,Trojans,Little Rock,AR,Ohio Valley Conference,1,/wiki/USC_Trojans,https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg
+239,239,University of Arkansas at Pine Bluff,Golden Lions,Pine Bluff,AR,Southwestern Athletic Conference,1,/wiki/Arkansas%E2%80%93Pine_Bluff_Golden_Lions_and_Golden_Lady_Lions,https://upload.wikimedia.org/wikipedia/en/a/a6/Arkansas%E2%80%93Pine_Bluff_Golden_Lions_logo.svg
+240,240,"University of California, Berkeley",Golden Bears,Berkeley,CA,Pac-12 Conference,1,/wiki/California_Golden_Bears,https://upload.wikimedia.org/wikipedia/commons/8/8b/California_Golden_Bears_logo.svg
+241,241,"University of California, Davis",Aggies,Davis,CA,Big West Conference,1,/wiki/Utah_State_Aggies,https://upload.wikimedia.org/wikipedia/commons/5/59/Utah_State_Aggies_logo.svg
+242,242,"University of California, Irvine",Anteaters,Irvine,CA,Big West Conference,1,/wiki/UC_Irvine_Anteaters,https://upload.wikimedia.org/wikipedia/commons/b/b6/UC_Irvine_Anteaters_logo.svg
+243,243,"University of California, Los Angeles",Bruins,Los Angeles,CA,Pac-12 Conference,1,,
+244,244,"University of California, Riverside",Highlanders,Riverside,CA,Big West Conference,1,/wiki/UC_Riverside_Highlanders,https://upload.wikimedia.org/wikipedia/commons/2/21/UC_Riverside_Highlanders_logo.svg
+245,245,"University of California, Santa Barbara",Gauchos,Santa Barbara,CA,Big West Conference,1,/wiki/UC_Santa_Barbara_Gauchos,https://upload.wikimedia.org/wikipedia/en/a/a8/UC_Santa_Barbara_Gauchos_logo.svg
+246,246,University of Central Arkansas,Bears,Conway,AR,ASUN Conference,1,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+247,247,University of Central Florida,Knights,Orlando,FL,American Athletic Conference,1,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+248,248,University of Cincinnati,Bearcats,Cincinnati,OH,American Athletic Conference,1,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+249,249,University of Colorado Boulder,Buffaloes,Boulder,CO,Pac-12 Conference,1,/wiki/Colorado_Buffaloes,https://upload.wikimedia.org/wikipedia/en/d/d3/Colorado_Buffaloes_logo.svg
+250,250,University of Connecticut,Huskies,Storrs,CT,Big East Conference,1,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+251,251,University of Dayton,Flyers,Dayton,OH,Atlantic 10 Conference,1,/wiki/Dayton_Flyers,https://upload.wikimedia.org/wikipedia/commons/d/d0/Dayton_Flyers_logo.svg
+252,252,University of Delaware,Fightin' Blue Hens,Newark,DE,Colonial Athletic Association,1,/wiki/Delaware_Fightin%27_Blue_Hens,https://upload.wikimedia.org/wikipedia/en/1/13/Delaware_Fightin%27_Blue_Hens_logo.svg
+253,253,University of Denver,Pioneers,Denver,CO,Summit League,1,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+254,254,University of Detroit Mercy,Titans,Detroit,MI,Horizon League,1,/wiki/Detroit_Mercy_Titans,https://upload.wikimedia.org/wikipedia/en/a/a6/Detroit_Titans_logo.svg
+255,255,University of Evansville,Purple Aces,Evansville,IN,Missouri Valley Conference,1,/wiki/Evansville_Purple_Aces,https://upload.wikimedia.org/wikipedia/commons/5/5b/Evansville_Athletics_logo.svg
+256,256,University of Florida,Gators,Gainesville,FL,Southeastern Conference,1,/wiki/Florida_Gators,https://upload.wikimedia.org/wikipedia/en/1/14/Florida_Gators_gator_logo.svg
+257,257,University of Georgia,Bulldogs,Athens,GA,Southeastern Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+258,258,University of Hartford,Hawks,Hartford,CT,America East Conference,1,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+259,259,University of Hawaiʻi at Mānoa,Rainbow Warriors,Honolulu,HI,Big West Conference,1,/wiki/Hawaii_Rainbow_Warriors_and_Rainbow_Wahine,https://upload.wikimedia.org/wikipedia/commons/d/de/Hawaii_Warriors_logo.svg
+260,260,University of Houston,Cougars,Houston,TX,American Athletic Conference,1,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+261,261,University of Idaho,Vandals,Moscow,ID,Big Sky Conference,1,/wiki/Idaho_Vandals,https://upload.wikimedia.org/wikipedia/commons/0/03/Idaho_Vandals_logo.svg
+262,262,University of Illinois Chicago,Flames,Chicago,IL,Missouri Valley Conference,1,/wiki/UIC_Flames,
+263,263,University of Illinois Urbana-Champaign,Fighting Illini,Urbana,IL,Big Ten Conference,1,/wiki/Illinois_Fighting_Illini,https://upload.wikimedia.org/wikipedia/commons/9/91/Illinois_Fighting_Illini_logo.svg
+264,264,University of Kansas,Jayhawks,Lawrence,KS,Big 12 Conference,1,/wiki/Kansas_Jayhawks,https://upload.wikimedia.org/wikipedia/en/f/f4/Kansas_Jayhawks_logo.svg
+265,265,University of Kentucky,Wildcats,Lexington,KY,Southeastern Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+266,266,University of Louisiana at Lafayette,Ragin' Cajuns,Lafayette,LA,Sun Belt Conference,1,/wiki/Louisiana_Ragin%27_Cajuns,https://upload.wikimedia.org/wikipedia/en/0/06/Ragin_Cajuns_logo.svg
+267,267,University of Louisiana at Monroe,Warhawks,Monroe,LA,Sun Belt Conference,1,/wiki/Louisiana%E2%80%93Monroe_Warhawks,https://upload.wikimedia.org/wikipedia/en/c/c9/Louisiana-Monroe_Warhawks_logo.svg
+268,268,University of Louisville,Cardinals,Louisville,KY,Atlantic Coast Conference,1,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+269,269,University of Maine,Black Bears,Orono,ME,America East Conference,1,/wiki/Maine_Black_Bears,https://upload.wikimedia.org/wikipedia/en/d/d3/Maine_Black_Bears_logo.svg
+270,270,"University of Maryland, Baltimore County",Retrievers,Catonsville,MD,America East Conference,1,/wiki/UMBC_Retrievers,https://upload.wikimedia.org/wikipedia/en/c/cc/UMBC_Retrievers_logo.svg
+271,271,"University of Maryland, College Park",Terrapins,College Park,MD,Big Ten Conference,1,/wiki/Maryland_Terrapins,https://upload.wikimedia.org/wikipedia/commons/a/a6/Maryland_Terrapins_logo.svg
+272,272,University of Maryland Eastern Shore,Hawks,Princess Anne,MD,Mid-Eastern Athletic Conference,1,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+273,273,University of Massachusetts Amherst,Minutemen,Amherst,MA,Atlantic 10 Conference,1,/wiki/UMass_Minutemen_and_Minutewomen,https://upload.wikimedia.org/wikipedia/commons/2/23/UMass_Amherst_athletics_logo.svg
+274,274,University of Massachusetts Lowell,River Hawks,Lowell,MA,America East Conference,1,/wiki/UMass_Lowell_River_Hawks,https://upload.wikimedia.org/wikipedia/en/4/43/UMass_Lowell_River_Hawks_logo.svg
+275,275,University of Memphis,Tigers,Memphis,TN,American Athletic Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+276,276,University of Miami,Hurricanes,Coral Gables,FL,Atlantic Coast Conference,1,/wiki/Miami_Hurricanes,https://upload.wikimedia.org/wikipedia/commons/e/e9/Miami_Hurricanes_logo.svg
+277,277,University of Michigan,Wolverines,Ann Arbor,MI,Big Ten Conference,1,/wiki/Utah_Valley_Wolverines,https://upload.wikimedia.org/wikipedia/en/c/c8/Utah_Valley_Wolverines_logo.svg
+278,278,University of Minnesota,Golden Gophers,Minneapolis,MN,Big Ten Conference,1,/wiki/Minnesota_Golden_Gophers,https://upload.wikimedia.org/wikipedia/commons/f/f9/Minnesota_Golden_Gophers_logo.svg
+279,279,University of Mississippi,Rebels,Oxford,MS,Southeastern Conference,1,/wiki/UNLV_Rebels,https://upload.wikimedia.org/wikipedia/commons/f/f6/UNLV_Rebels_wordmark.svg
+280,280,University of Missouri–Columbia,Tigers,Columbia,MO,Southeastern Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+281,281,University of Missouri–Kansas City,Roos,Kansas City,MO,Summit League,1,/wiki/Kansas_City_Roos,https://upload.wikimedia.org/wikipedia/en/7/75/Kansas_City_Roos_logo.svg
+282,282,University of Montana,Grizzlies,Missoula,MT,Big Sky Conference,1,/wiki/Montana_Grizzlies_and_Lady_Griz,https://upload.wikimedia.org/wikipedia/commons/3/3b/Montana_Griz_logo.svg
+283,283,University of Nebraska–Lincoln,Cornhuskers,Lincoln,NE,Big Ten Conference,1,/wiki/Nebraska_Cornhuskers,https://upload.wikimedia.org/wikipedia/commons/e/e5/Nebraska_Cornhuskers_logo.svg
+284,284,University of Nebraska at Omaha,Mavericks,Omaha,NE,Summit League,1,/wiki/Omaha_Mavericks,https://upload.wikimedia.org/wikipedia/commons/7/73/Omaha_Mavericks_logo.svg
+285,285,"University of Nevada, Las Vegas",Rebels,Paradise,NV,Mountain West Conference,1,/wiki/UNLV_Rebels,https://upload.wikimedia.org/wikipedia/commons/f/f6/UNLV_Rebels_wordmark.svg
+286,286,"University of Nevada, Reno",Wolf Pack,Reno,NV,Mountain West Conference,1,/wiki/Nevada_Wolf_Pack,https://upload.wikimedia.org/wikipedia/en/2/21/Nevada_Wolf_Pack_logo.svg
+287,287,University of New Hampshire,Wildcats,Durham,NH,America East Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+288,288,University of New Orleans,Privateers,New Orleans,LA,Southland Conference,1,/wiki/New_Orleans_Privateers,https://upload.wikimedia.org/wikipedia/en/2/27/New_Orleans_Privateers_logo.svg
+289,289,University of North Alabama,Lions,Florence,AL,ASUN Conference,1,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+290,290,University of North Carolina at Asheville,Bulldogs,Asheville,NC,Big South Conference,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+291,291,University of North Carolina at Chapel Hill,Tar Heels,Chapel Hill,NC,Atlantic Coast Conference,1,/wiki/North_Carolina_Tar_Heels,https://upload.wikimedia.org/wikipedia/commons/d/d7/North_Carolina_Tar_Heels_logo.svg
+292,292,University of North Carolina at Charlotte,49ers,Charlotte,NC,Conference USA,1,/wiki/Charlotte_49ers,https://upload.wikimedia.org/wikipedia/commons/3/33/Charlotte_49ers_logo.svg
+293,293,University of North Carolina at Greensboro,Spartans,Greensboro,NC,Southern Conference,1,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+294,294,University of North Carolina at Wilmington,Seahawks,Wilmington,NC,Colonial Athletic Association,1,/wiki/Wagner_Seahawks,https://upload.wikimedia.org/wikipedia/en/6/63/Wagner_Seahawks_logo.svg
+295,295,University of North Dakota,Fighting Hawks,Grand Forks,ND,Summit League,1,/wiki/North_Dakota_Fighting_Hawks,https://upload.wikimedia.org/wikipedia/en/9/92/North_Dakota_Fighting_Hawks_logo.svg
+296,296,University of Northern Colorado,Bears,Greeley,CO,Big Sky Conference,1,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+297,297,University of Northern Iowa,Panthers,Cedar Falls,IA,Missouri Valley Conference,1,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+298,298,University of North Florida,Ospreys,Jacksonville,FL,ASUN Conference,1,/wiki/North_Florida_Ospreys,https://upload.wikimedia.org/wikipedia/en/a/ac/North_Florida_Ospreys_logo.svg
+299,299,University of North Texas,Mean Green,Denton,TX,Conference USA,1,/wiki/North_Texas_Mean_Green,https://upload.wikimedia.org/wikipedia/en/a/a2/North_Texas_Mean_Green_logo.svg
+300,300,University of Notre Dame du Lac,Fighting Irish,Notre Dame,IN,Atlantic Coast Conference,1,/wiki/Notre_Dame_Fighting_Irish,https://upload.wikimedia.org/wikipedia/commons/f/f5/Notre_Dame_Fighting_Irish_logo.svg
+301,301,University of Oklahoma,Sooners,Norman,OK,Big 12 Conference,1,/wiki/Oklahoma_Sooners,https://upload.wikimedia.org/wikipedia/commons/6/61/Oklahoma_Sooners_logo.svg
+302,302,University of Oregon,Ducks,Eugene,OR,Pac-12 Conference,1,/wiki/Oregon_Ducks,https://upload.wikimedia.org/wikipedia/commons/f/f8/Oregon_Ducks_logo.svg
+303,303,University of Pennsylvania,Quakers,Philadelphia,PA,Ivy League,1,/wiki/Penn_Quakers,https://upload.wikimedia.org/wikipedia/commons/c/c7/Penn_Quakers_logo.svg
+304,304,University of Pittsburgh,Panthers,Pittsburgh,PA,Atlantic Coast Conference,1,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+305,305,University of Portland,Pilots,Portland,OR,West Coast Conference,1,/wiki/Portland_Pilots,https://upload.wikimedia.org/wikipedia/commons/3/3f/Portland_Pilots_logo.svg
+306,306,University of Rhode Island,Rams,Kingston,RI,Atlantic 10 Conference,1,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+307,307,University of Richmond,Spiders,Richmond,VA,Atlantic 10 Conference,1,/wiki/Richmond_Spiders,https://upload.wikimedia.org/wikipedia/en/c/c3/Richmond_Spiders_logo.svg
+308,308,University of San Diego,Toreros,San Diego,CA,West Coast Conference,1,/wiki/San_Diego_Toreros,https://upload.wikimedia.org/wikipedia/commons/7/7e/San_Diego_Toreros_logo.svg
+309,309,University of San Francisco,Dons,San Francisco,CA,West Coast Conference,1,/wiki/San_Francisco_Dons,https://upload.wikimedia.org/wikipedia/commons/a/af/San_Francisco_Dons_logo.svg
+310,310,University of South Alabama,Jaguars,Mobile,AL,Sun Belt Conference,1,/wiki/South_Alabama_Jaguars,
+311,311,University of South Carolina,Gamecocks,Columbia,SC,Southeastern Conference,1,/wiki/South_Carolina_Gamecocks,https://upload.wikimedia.org/wikipedia/commons/9/94/South_Carolina_Gamecocks_logo.svg
+312,312,University of South Carolina Upstate,Spartans,Spartanburg,SC,Big South Conference,1,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+313,313,University of South Dakota,Coyotes,Vermillion,SD,Summit League,1,/wiki/South_Dakota_Coyotes,https://upload.wikimedia.org/wikipedia/en/a/ae/South_Dakota_Coyotes_logo.svg
+314,314,University of Southern California,Trojans,Los Angeles,CA,Pac-12 Conference,1,/wiki/USC_Trojans,https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg
+315,315,University of Southern Mississippi,Golden Eagles,Hattiesburg,MS,Conference USA,1,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+316,316,University of South Florida,Bulls,Tampa,FL,American Athletic Conference,1,/wiki/South_Florida_Bulls,https://upload.wikimedia.org/wikipedia/en/c/c1/South_Florida_Bulls_logo.svg
+317,317,University of the Incarnate Word,Cardinals,San Antonio,TX,Western Athletic Conference,1,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+318,318,University of the Pacific,Tigers,Stockton,CA,West Coast Conference,1,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+319,319,University of Toledo,Rockets,Toledo,OH,Mid-American Conference,1,/wiki/Toledo_Rockets,https://upload.wikimedia.org/wikipedia/en/f/fa/Toledo_Rockets_logo.svg
+320,320,University of Utah,Utes,Salt Lake City,UT,Pac-12 Conference,1,/wiki/Utah_Utes,https://upload.wikimedia.org/wikipedia/commons/b/be/Utah_Utes_logo.svg
+321,321,University of Virginia,Cavaliers,Charlottesville,VA,Atlantic Coast Conference,1,/wiki/Virginia_Cavaliers,https://upload.wikimedia.org/wikipedia/en/1/1e/Virginia_Cavaliers_logo.svg
+322,322,University of Washington,Huskies,Seattle,WA,Pac-12 Conference,1,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+323,323,University of Wisconsin–Green Bay,Phoenix,Green Bay,WI,Horizon League,1,/wiki/Green_Bay_Phoenix,https://upload.wikimedia.org/wikipedia/commons/1/17/Green_Bay_Phoenix_logo.svg
+324,324,University of Wisconsin–Madison,Badgers,Madison,WI,Big Ten Conference,1,/wiki/Wisconsin_Badgers,https://upload.wikimedia.org/wikipedia/commons/e/e5/Wisconsin_Badgers_logo.svg
+325,325,University of Wisconsin–Milwaukee,Panthers,Milwaukee,WI,Horizon League,1,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+326,326,University of Wyoming,Cowboys,Laramie,WY,Mountain West Conference,1,/wiki/Wyoming_Cowboys_and_Cowgirls,https://upload.wikimedia.org/wikipedia/commons/9/91/Wyoming_Athletics_logo.svg
+327,327,Utah State University,Aggies,Logan,UT,Mountain West Conference,1,/wiki/Utah_State_Aggies,https://upload.wikimedia.org/wikipedia/commons/5/59/Utah_State_Aggies_logo.svg
+328,328,Utah Valley University,Wolverines,Orem,UT,Western Athletic Conference,1,/wiki/Utah_Valley_Wolverines,https://upload.wikimedia.org/wikipedia/en/c/c8/Utah_Valley_Wolverines_logo.svg
+329,329,Valparaiso University,Beacons,Valparaiso,IN,Missouri Valley Conference,1,/wiki/Valparaiso_Beacons,https://upload.wikimedia.org/wikipedia/en/e/eb/Valparaiso_Beacons.jpg
+330,330,Vanderbilt University,Commodores,Nashville,TN,Southeastern Conference,1,/wiki/Vanderbilt_Commodores,https://upload.wikimedia.org/wikipedia/commons/0/08/Vanderbilt_Athletics.png
+331,331,Villanova University,Wildcats,Radnor,PA,Big East Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+332,332,Virginia Commonwealth University,Rams,Richmond,VA,Atlantic 10 Conference,1,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+333,333,Virginia Military Institute,Keydets,Lexington,VA,Southern Conference,1,/wiki/VMI_Keydets,https://upload.wikimedia.org/wikipedia/commons/8/86/VMI_Keydets_logo.svg
+334,334,Virginia Polytechnic Institute and State University,Hokies,Blacksburg,VA,Atlantic Coast Conference,1,/wiki/Virginia_Tech_Hokies,https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg
+335,335,Wagner College,Seahawks,New York,NY,Northeast Conference,1,/wiki/Wagner_Seahawks,https://upload.wikimedia.org/wikipedia/en/6/63/Wagner_Seahawks_logo.svg
+336,336,Wake Forest University,Demon Deacons,Winston-Salem,NC,Atlantic Coast Conference,1,/wiki/Wake_Forest_Demon_Deacons,https://upload.wikimedia.org/wikipedia/commons/1/1a/Wake_Forest_University_Athletic_logo.svg
+337,337,Washington State University,Cougars,Pullman,WA,Pac-12 Conference,1,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+338,338,Weber State University,Wildcats,Ogden,UT,Big Sky Conference,1,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+339,339,Western Carolina University,Catamounts,Cullowhee,NC,Southern Conference,1,/wiki/Western_Carolina_Catamounts,https://upload.wikimedia.org/wikipedia/en/5/50/Western_Carolina_Catamounts_logo.svg
+340,340,Western Illinois University,Leathernecks,Macomb,IL,Summit League,1,/wiki/Western_Illinois_Leathernecks,https://upload.wikimedia.org/wikipedia/en/1/16/Western_Illinois_Leathernecks_logo.svg
+341,341,Western Kentucky University,Hilltoppers,Bowling Green,KY,Conference USA,1,/wiki/Western_Kentucky_Hilltoppers_and_Lady_Toppers,https://upload.wikimedia.org/wikipedia/en/1/1d/WKU_Athletics_logo.svg
+342,342,Western Michigan University,Broncos,Kalamazoo,MI,Mid-American Conference,1,/wiki/Western_Michigan_Broncos,https://upload.wikimedia.org/wikipedia/en/b/b0/Western_Michigan_Broncos_%282021%29_logo.svg
+343,343,West Virginia University,Mountaineers,Morgantown,WV,Big 12 Conference,1,/wiki/West_Virginia_Mountaineers,https://upload.wikimedia.org/wikipedia/commons/e/e8/West_Virginia_Mountaineers_logo.svg
+344,344,Wichita State University,Shockers,Wichita,KS,American Athletic Conference,1,/wiki/Wichita_State_Shockers,https://upload.wikimedia.org/wikipedia/en/9/90/Wichita_State_Shockers_logo.svg
+345,345,William Marsh Rice University,Owls,Houston,TX,Conference USA,1,,
+346,346,Winthrop University,Eagles,Rock Hill,SC,Big South Conference,1,,
+347,347,Wofford College,Terriers,Spartanburg,SC,Southern Conference,1,/wiki/Wofford_Terriers,https://upload.wikimedia.org/wikipedia/en/5/5b/Wofford_Terriers_logo.svg
+348,348,Wright State University,Raiders,Dayton,OH,Horizon League,1,/wiki/Wright_State_Raiders,https://upload.wikimedia.org/wikipedia/en/c/c2/Wright_State_Raiders_logo.svg
+349,349,Xavier University,Musketeers,Cincinnati,OH,Big East Conference,1,/wiki/Xavier_Musketeers,https://upload.wikimedia.org/wikipedia/commons/d/db/Xavier_Musketeers_logo.svg
+350,350,Yale University,Bulldogs,New Haven,CT,Ivy League,1,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+351,351,Youngstown State University,Penguins,Youngstown,OH,Horizon League,1,/wiki/Youngstown_State_Penguins,https://upload.wikimedia.org/wikipedia/commons/8/84/Youngstown_State_Penguins_logo.svg
+352,352,Academy of Art University,Urban Knights,San Francisco,CA,Pacific West Conference,2,,
+353,353,Adams State University,Grizzlies,Alamosa,CO,Rocky Mountain Athletic Conference,2,/wiki/Montana_Grizzlies_and_Lady_Griz,https://upload.wikimedia.org/wikipedia/commons/3/3b/Montana_Griz_logo.svg
+354,354,Adelphi University,Panthers,Garden City,NY,Northeast-10 Conference,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+355,355,University of Alabama in Huntsville,Chargers,Huntsville,AL,Gulf South Conference,2,,
+356,356,University of Alaska Anchorage,Seawolves,Anchorage,AK,Great Northwest Athletic Conference,2,/wiki/Stony_Brook_Seawolves,https://upload.wikimedia.org/wikipedia/en/3/35/Stony_Brook_Seawolves_logo.svg
+357,357,University of Alaska Fairbanks,Nanooks,Fairbanks,AK,Great Northwest Athletic Conference,2,,
+358,358,Albany State University,Golden Rams,Albany,GA,Southern Intercollegiate Athletic Conference,2,,
+359,359,Alderson Broaddus University,Battlers,Philippi,WV,Mountain East Conference,2,,
+360,360,American International College,Yellow Jackets,Springfield,MA,Northeast-10 Conference,2,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+361,361,Anderson University,Trojans,Anderson,SC,South Atlantic Conference,2,/wiki/USC_Trojans,https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg
+362,362,Angelo State University,Rams & Rambelles,San Angelo,TX,Lone Star Conference,2,,
+363,363,Arkansas Tech University,Wonder Boys & Golden Suns,Russellville,AR,Great American Conference,2,,
+364,364,University of Arkansas–Fort Smith,Lions,Fort Smith,AR,Lone Star Conference,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+365,365,University of Arkansas at Monticello,Boll Weevils & Cotton Blossoms,Monticello,AR,Great American Conference,2,,
+366,366,Ashland University,Eagles,Ashland,OH,Great Midwest Athletic Conference,2,,
+367,367,Assumption University,Greyhounds,Worcester,MA,Northeast-10 Conference,2,/wiki/Loyola_Greyhounds,https://upload.wikimedia.org/wikipedia/en/e/e5/Loyola_Greyhounds_Official_Logo.png
+368,368,Auburn University at Montgomery,Warhawks,Montgomery,AL,Gulf South Conference,2,/wiki/Louisiana%E2%80%93Monroe_Warhawks,https://upload.wikimedia.org/wikipedia/en/c/c9/Louisiana-Monroe_Warhawks_logo.svg
+369,369,Augusta University,Jaguars,Augusta,GA,Peach Belt Conference,2,/wiki/South_Alabama_Jaguars,
+370,370,Augustana University,Vikings,Sioux Falls,SD,Northern Sun Intercollegiate Conference,2,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+371,371,Azusa Pacific University,Cougars,Azusa,CA,Pacific West Conference,2,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+372,372,Barry University,Buccaneers,Miami Shores,FL,Sunshine State Conference,2,/wiki/East_Tennessee_State_Buccaneers,https://upload.wikimedia.org/wikipedia/commons/a/ab/East_Tennessee_State_Buccaneers_logo.svg
+373,373,Barton College,Bulldogs,Wilson,NC,Conference Carolinas,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+374,374,Belmont Abbey College,Crusaders,Belmont,NC,Conference Carolinas,2,/wiki/Holy_Cross_Crusaders,https://upload.wikimedia.org/wikipedia/commons/f/f5/Holy_Cross_Crusaders_logo.svg
+375,375,Bemidji State University,Beavers,Bemidji,MN,Northern Sun Intercollegiate Conference,2,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+376,376,Benedict College,Tigers,Columbia,SC,Southern Intercollegiate Athletic Conference,2,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+377,377,Bentley University,Falcons,Waltham,MA,Northeast-10 Conference,2,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+378,378,Biola University,Eagles,La Mirada,CA,Pacific West Conference,2,,
+379,379,Black Hills State University,Yellow Jackets,Spearfish,SD,Rocky Mountain Athletic Conference,2,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+380,380,Bloomfield College,Bears,Bloomfield,NJ,Central Atlantic Collegiate Conference,2,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+381,381,Bloomsburg University of Pennsylvania,Huskies,Bloomsburg,PA,Pennsylvania State Athletic Conference,2,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+382,382,Bluefield State College,Big Blues & Lady Blues,Bluefield,WV,Independent,2,,
+383,383,Bowie State University,Bulldogs,Bowie,MD,Central Intercollegiate Athletic Association,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+384,384,University of Bridgeport,Purple Knights,Bridgeport,CT,East Coast Conference(Central Atlantic Collegiate Conference in 2022),2,,
+385,385,Caldwell University,Cougars,Caldwell,NJ,Central Atlantic Collegiate Conference,2,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+386,386,California University of Pennsylvania[a],Vulcans,California,PA,Pennsylvania State Athletic Conference,2,,
+387,387,"California State Polytechnic University, Humboldt",Lumberjacks,Arcata,CA,California Collegiate Athletic Association,2,/wiki/Stephen_F._Austin_Lumberjacks_and_Ladyjacks,https://upload.wikimedia.org/wikipedia/en/5/5a/Stephen_F._Austin_Athletics_logo.svg
+388,388,"California State Polytechnic University, Pomona",Broncos,Pomona,CA,California Collegiate Athletic Association,2,/wiki/Western_Michigan_Broncos,https://upload.wikimedia.org/wikipedia/en/b/b0/Western_Michigan_Broncos_%282021%29_logo.svg
+389,389,"California State University, Chico",Wildcats,Chico,CA,California Collegiate Athletic Association,2,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+390,390,"California State University, Dominguez Hills",Toros,Carson,CA,California Collegiate Athletic Association,2,,
+391,391,"California State University, East Bay",Pioneers,Hayward,CA,California Collegiate Athletic Association,2,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+392,392,"California State University, Los Angeles",Golden Eagles,Los Angeles,CA,California Collegiate Athletic Association,2,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+393,393,"California State University, Monterey Bay",Otters,Seaside,CA,California Collegiate Athletic Association,2,,
+394,394,"California State University, San Bernardino",Coyotes,San Bernardino,CA,California Collegiate Athletic Association,2,/wiki/South_Dakota_Coyotes,https://upload.wikimedia.org/wikipedia/en/a/ae/South_Dakota_Coyotes_logo.svg
+395,395,California State University San Marcos,Cougars,San Marcos,CA,California Collegiate Athletic Association,2,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+396,396,"California State University, Stanislaus",Warriors,Turlock,CA,California Collegiate Athletic Association,2,,
+397,397,Cameron University,Aggies,Lawton,OK,Lone Star Conference,2,/wiki/Utah_State_Aggies,https://upload.wikimedia.org/wikipedia/commons/5/59/Utah_State_Aggies_logo.svg
+398,398,Carson–Newman University,Eagles,Jefferson City,TN,South Atlantic Conference,2,,
+399,399,Catawba College,Indians,Salisbury,NC,South Atlantic Conference,2,,
+400,400,Cedarville University,Yellow Jackets,Cedarville,OH,Great Midwest Athletic Conference,2,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+401,401,University of Central Missouri,Mules & Jennies,Warrensburg,MO,Mid-America Intercollegiate Athletics Association,2,,
+402,402,University of Central Oklahoma,Bronchos,Edmond,OK,Mid-America Intercollegiate Athletics Association,2,,
+403,403,Central State University,Marauders & Lady Marauders,Wilberforce,OH,Southern Intercollegiate Athletic Conference,2,,
+404,404,Central Washington University,Wildcats,Ellensburg,WA,Great Northwest Athletic Conference,2,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+405,405,Chadron State College,Eagles,Chadron,NE,Rocky Mountain Athletic Conference,2,,
+406,406,Chaminade University of Honolulu,Silverswords,Honolulu,HI,Pacific West Conference,2,,
+407,407,University of Charleston,Golden Eagles,Charleston,WV,Mountain East Conference,2,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+408,408,Chestnut Hill College,Griffins,Philadelphia,PA,Central Atlantic Collegiate Conference,2,,
+409,409,Chowan University,Hawks,Murfreesboro,NC,Conference Carolinas,2,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+410,410,Christian Brothers University,Buccaneers & Lady Buccaneers,Memphis,TN,Gulf South Conference,2,,
+411,411,Claflin University,Panthers,Orangeburg,SC,Central Intercollegiate Athletic Association,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+412,412,Clarion University of Pennsylvania[a],Golden Eagles,Clarion,PA,Pennsylvania State Athletic Conference,2,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+413,413,Clark Atlanta University,Panthers,Atlanta,GA,Southern Intercollegiate Athletic Conference,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+414,414,Clayton State University,Lakers,Morrow,GA,Peach Belt Conference,2,,
+415,415,Coker University,Cobras,Hartsville,SC,South Atlantic Conference,2,,
+416,416,Colorado Christian University,Cougars,Lakewood,CO,Rocky Mountain Athletic Conference,2,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+417,417,Colorado Mesa University,Mavericks,Grand Junction,CO,Rocky Mountain Athletic Conference,2,/wiki/Omaha_Mavericks,https://upload.wikimedia.org/wikipedia/commons/7/73/Omaha_Mavericks_logo.svg
+418,418,Colorado School of Mines,Orediggers,Golden,CO,Rocky Mountain Athletic Conference,2,,
+419,419,Colorado State University–Pueblo,ThunderWolves,Pueblo,CO,Rocky Mountain Athletic Conference,2,,
+420,420,University of Colorado Colorado Springs,Mountain Lions,Colorado Springs,CO,Rocky Mountain Athletic Conference,2,,
+421,421,Columbus State University,Cougars,Columbus,GA,Peach Belt Conference,2,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+422,422,Concord University,Mountain Lions,Athens,WV,Mountain East Conference,2,,
+423,423,Concordia University–Irvine,Eagles,Irvine,CA,Pacific West Conference,2,,
+424,424,Concordia University–St. Paul,Golden Bears,St. Paul,MN,Northern Sun Intercollegiate Conference,2,/wiki/California_Golden_Bears,https://upload.wikimedia.org/wikipedia/commons/8/8b/California_Golden_Bears_logo.svg
+425,425,Converse University,Valkyries,Spartanburg,SC,Conference Carolinas,2,,
+426,426,Daemen College,Wildcats,Amherst,NY,East Coast Conference,2,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+427,427,Dallas Baptist University,Patriots,Dallas,TX,Lone Star Conference,2,/wiki/George_Mason_Patriots,https://upload.wikimedia.org/wikipedia/en/f/f8/George_Mason_Patriots_logo.svg
+428,428,Davenport University,Panthers,Grand Rapids,MI,Great Lakes Intercollegiate Athletic Conference,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+429,429,Davis & Elkins College,Senators,Elkins,WV,Mountain East Conference,2,,
+430,430,Delta State University,Statesmen & Lady Statesmen,Cleveland,MS,Gulf South Conference,2,,
+431,431,University of the District of Columbia,Firebirds,Washington,DC,East Coast Conference,2,,
+432,432,Dominican University of California,Penguins,San Rafael,CA,Pacific West Conference,2,/wiki/Youngstown_State_Penguins,https://upload.wikimedia.org/wikipedia/commons/8/84/Youngstown_State_Penguins_logo.svg
+433,433,Dominican College,Chargers,Orangeburg,NY,Central Atlantic Collegiate Conference,2,,
+434,434,Drury University,Panthers,Springfield,MO,Great Lakes Valley Conference,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+435,435,East Central University,Tigers,Ada,OK,Great American Conference,2,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+436,436,East Stroudsburg University of Pennsylvania,Warriors,East Stroudsburg,PA,Pennsylvania State Athletic Conference,2,,
+437,437,Eastern New Mexico University,Greyhounds,Portales,NM,Lone Star Conference,2,/wiki/Loyola_Greyhounds,https://upload.wikimedia.org/wikipedia/en/e/e5/Loyola_Greyhounds_Official_Logo.png
+438,438,Eckerd College,Tritons,St. Petersburg,FL,Sunshine State Conference,2,,
+439,439,Edinboro University of Pennsylvania[a],Fighting Scots,Edinboro,PA,Pennsylvania State Athletic Conference,2,,
+440,440,Elizabeth City State University,Vikings,Elizabeth City,NC,Central Intercollegiate Athletic Association,2,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+441,441,Embry–Riddle Aeronautical University,Eagles,Daytona Beach,FL,Sunshine State Conference,2,,
+442,442,Emmanuel College,Lions,Franklin Springs,GA,Conference Carolinas,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+443,443,Emporia State University,Hornets,Emporia,KS,Mid-America Intercollegiate Athletics Association,2,/wiki/Delaware_State_Hornets,https://upload.wikimedia.org/wikipedia/en/d/db/Delaware_State_Hornets_logo.svg
+444,444,Erskine College,Flying Fleet,Due West,SC,Conference Carolinas,2,,
+445,445,Fairmont State University,Fighting Falcons,Fairmont,WV,Mountain East Conference,2,,
+446,446,Fayetteville State University,Broncos & Lady Broncos,Fayetteville,NC,Central Intercollegiate Athletic Association,2,,
+447,447,Felician University,Golden Falcons,Rutherford,NJ,Central Atlantic Collegiate Conference,2,,
+448,448,Ferris State University,Bulldogs,Big Rapids,MI,Great Lakes Intercollegiate Athletic Conference,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+449,449,University of Findlay,Oilers,Findlay,OH,Great Midwest Athletic Conference,2,,
+450,450,Flagler College,Saints,St. Augustine,FL,Peach Belt Conference,2,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+451,451,Florida Southern College,Moccasins,Lakeland,FL,Sunshine State Conference,2,,
+452,452,Florida Institute of Technology,Panthers,Melbourne,FL,Sunshine State Conference,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+453,453,Fort Hays State University,Tigers,Hays,KS,Mid-America Intercollegiate Athletics Association,2,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+454,454,Fort Lewis College,Skyhawks,Durango,CO,Rocky Mountain Athletic Conference,2,/wiki/Stonehill_Skyhawks,https://upload.wikimedia.org/wikipedia/commons/e/ed/Stonehill_Skyhawks_logo.svg
+455,455,Fort Valley State University,Wildcats,Fort Valley,GA,Southern Intercollegiate Athletic Conference,2,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+456,456,Francis Marion University,Patriots,Florence,SC,Conference Carolinas,2,/wiki/George_Mason_Patriots,https://upload.wikimedia.org/wikipedia/en/f/f8/George_Mason_Patriots_logo.svg
+457,457,Franklin Pierce University,Ravens,Rindge,NH,Northeast-10 Conference,2,,
+458,458,Fresno Pacific University,Sunbirds,Fresno,CA,Pacific West Conference,2,,
+459,459,Gannon University,Golden Knights,Erie,PA,Pennsylvania State Athletic Conference,2,,
+460,460,Georgia College & State University,Bobcats,Milledgeville,GA,Peach Belt Conference,2,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+461,461,Georgia Southwestern State University,Hurricanes,Americus,GA,Peach Belt Conference,2,/wiki/Miami_Hurricanes,https://upload.wikimedia.org/wikipedia/commons/e/e9/Miami_Hurricanes_logo.svg
+462,462,Georgian Court University,Lions,Lakewood,NJ,Central Atlantic Collegiate Conference,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+463,463,Glenville State College,Pioneers,Glenville,WV,Mountain East Conference,2,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+464,464,Goldey–Beacom College,Lightning,Pike Creek Valley,DE,Central Atlantic Collegiate Conference,2,,
+465,465,Grand Valley State University,Lakers,Allendale,MI,Great Lakes Intercollegiate Athletic Conference,2,,
+466,466,Harding University,Bisons & Lady Bisons,Searcy,AR,Great American Conference,2,,
+467,467,Hawai'i Pacific University,Sharks,Honolulu,HI,Pacific West Conference,2,/wiki/LIU_Sharks,https://upload.wikimedia.org/wikipedia/en/f/fd/LIU_Sharks_logo.svg
+468,468,University of Hawai'i at Hilo,Vulcans,Hilo,HI,Pacific West Conference,2,,
+469,469,Henderson State University,Reddies,Arkadelphia,AR,Great American Conference,2,,
+470,470,Hillsdale College,Chargers,Hillsdale,MI,Great Midwest Athletic Conference,2,,
+471,471,Holy Family University,Tigers,Philadelphia,PA,Central Atlantic Collegiate Conference,2,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+472,472,Holy Names University,Hawks,Oakland,CA,Pacific West Conference,2,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+473,473,University of Illinois at Springfield,Prairie Stars,Springfield,IL,Great Lakes Valley Conference,2,,
+474,474,Indiana University of Pennsylvania,Crimson Hawks,Indiana,PA,Pennsylvania State Athletic Conference,2,,
+475,475,University of Indianapolis,Greyhounds,Indianapolis,IN,Great Lakes Valley Conference,2,/wiki/Loyola_Greyhounds,https://upload.wikimedia.org/wikipedia/en/e/e5/Loyola_Greyhounds_Official_Logo.png
+476,476,Thomas Jefferson University,Rams,Philadelphia,PA,Central Atlantic Collegiate Conference,2,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+477,477,Johnson C. Smith University,Golden Bulls,Charlotte,NC,Central Intercollegiate Athletic Association,2,,
+478,478,Kentucky State University,Thorobreds & Thorobrettes,Frankfort,KY,Southern Intercollegiate Athletic Conference,2,,
+479,479,Kentucky Wesleyan College,Panthers,Owensboro,KY,Great Midwest Athletic Conference,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+480,480,King University,Tornados,Bristol,TN,Conference Carolinas,2,,
+481,481,Kutztown University of Pennsylvania,Golden Bears,Kutztown,PA,Pennsylvania State Athletic Conference,2,/wiki/California_Golden_Bears,https://upload.wikimedia.org/wikipedia/commons/8/8b/California_Golden_Bears_logo.svg
+482,482,Lake Erie College,Storm,Painesville,OH,Great Midwest Athletic Conference,2,,
+483,483,Lake Superior State University,Lakers,Sault Ste. Marie,MI,Great Lakes Intercollegiate Athletic Conference,2,,
+484,484,Lander University,Bearcats,Greenwood,SC,Peach Belt Conference,2,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+485,485,Lane College,Dragons,Jackson,TN,Southern Intercollegiate Athletic Conference,2,/wiki/Drexel_Dragons,https://upload.wikimedia.org/wikipedia/en/1/16/Drexel_Dragons_logo.svg
+486,486,Le Moyne College,Dolphins,Syracuse,NY,Northeast-10 Conference,2,/wiki/Jacksonville_Dolphins,https://upload.wikimedia.org/wikipedia/commons/e/e3/Jacksonville_Dolphins_logo_2018.svg
+487,487,Lee University,Flames,Cleveland,TN,Gulf South Conference,2,/wiki/UIC_Flames,
+488,488,Lees–McRae College,Bobcats,Banner Elk,NC,Conference Carolinas,2,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+489,489,LeMoyne–Owen College,Magicians,Memphis,TN,Southern Intercollegiate Athletic Conference,2,,
+490,490,Lenoir–Rhyne University,Bears,Hickory,NC,South Atlantic Conference,2,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+491,491,Lewis University,Flyers,Romeoville,IL,Great Lakes Valley Conference,2,/wiki/Dayton_Flyers,https://upload.wikimedia.org/wikipedia/commons/d/d0/Dayton_Flyers_logo.svg
+492,492,Limestone University,Saints,Gaffney,SC,South Atlantic Conference,2,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+493,493,Lincoln University (MO),Blue Tigers,Jefferson City,MO,Mid-America Intercollegiate Athletics Association,2,,
+494,494,Lincoln University (PA),Lions,Chester County,PA,Central Intercollegiate Athletic Association,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+495,495,Lincoln Memorial University,Railsplitters,Harrogate,TN,South Atlantic Conference,2,,
+496,496,Lindenwood University[b],Lions & Lady Lions,St. Charles,MO,Great Lakes Valley Conference,2,/wiki/Lindenwood_Lions,https://upload.wikimedia.org/wikipedia/en/7/74/Lindenwood_Lions_logo.svg
+497,497,Livingstone College,Blue Bears,Salisbury,NC,Central Intercollegiate Athletic Association,2,,
+498,498,Lock Haven University of Pennsylvania,Bald Eagles,Lock Haven,PA,Pennsylvania State Athletic Conference,2,,
+499,499,Lubbock Christian University,Chaparrals & Lady Chaps,Lubbock,TX,Lone Star Conference,2,,
+500,500,Lynn University,Fighting Knights,Boca Raton,FL,Sunshine State Conference,2,,
+501,501,Malone University,Pioneers,Canton,OH,Great Midwest Athletic Conference,2,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+502,502,Mansfield University of Pennsylvania,Mountaineers,Mansfield,PA,Pennsylvania State Athletic Conference,2,/wiki/West_Virginia_Mountaineers,https://upload.wikimedia.org/wikipedia/commons/e/e8/West_Virginia_Mountaineers_logo.svg
+503,503,Mars Hill University,Lions,Mars Hill,NC,South Atlantic Conference,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+504,504,University of Mary,Marauders,Bismarck,ND,Northern Sun Intercollegiate Conference,2,,
+505,505,Maryville University,Saints,Town and Country,MO,Great Lakes Valley Conference,2,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+506,506,McKendree University,Bearcats,Lebanon,IL,Great Lakes Valley Conference,2,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+507,507,Mercy College,Mavericks,Dobbs Ferry,NY,East Coast Conference,2,/wiki/Omaha_Mavericks,https://upload.wikimedia.org/wikipedia/commons/7/73/Omaha_Mavericks_logo.svg
+508,508,Mercyhurst University,Lakers,Erie,PA,Pennsylvania State Athletic Conference,2,,
+509,509,Metropolitan State University of Denver,Roadrunners,Denver,CO,Rocky Mountain Athletic Conference,2,/wiki/UTSA_Roadrunners,https://upload.wikimedia.org/wikipedia/commons/8/84/UTSA_Roadrunners_logo.svg
+510,510,Michigan Technological University,Huskies,Houghton,MI,Great Lakes Intercollegiate Athletic Conference,2,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+511,511,Midwestern State University,Mustangs,Wichita Falls,TX,Lone Star Conference,2,/wiki/SMU_Mustangs,https://upload.wikimedia.org/wikipedia/commons/3/33/SMU_Mustang_logo.svg
+512,512,Miles College,Golden Bears,Fairfield,AL,Southern Intercollegiate Athletic Conference,2,/wiki/California_Golden_Bears,https://upload.wikimedia.org/wikipedia/commons/8/8b/California_Golden_Bears_logo.svg
+513,513,Millersville University of Pennsylvania,Marauders,Millersville,PA,Pennsylvania State Athletic Conference,2,,
+514,514,"Minnesota State University, Mankato",Mavericks,Mankato,MN,Northern Sun Intercollegiate Conference,2,/wiki/Omaha_Mavericks,https://upload.wikimedia.org/wikipedia/commons/7/73/Omaha_Mavericks_logo.svg
+515,515,Minnesota State University Moorhead,Dragons,Moorhead,MN,Northern Sun Intercollegiate Conference,2,/wiki/Drexel_Dragons,https://upload.wikimedia.org/wikipedia/en/1/16/Drexel_Dragons_logo.svg
+516,516,University of Minnesota Crookston,Golden Eagles,Crookston,MN,Northern Sun Intercollegiate Conference,2,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+517,517,University of Minnesota Duluth,Bulldogs,Duluth,MN,Northern Sun Intercollegiate Conference,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+518,518,Minot State University,Beavers,Minot,ND,Northern Sun Intercollegiate Conference,2,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+519,519,Mississippi College,Choctaws,Clinton,MS,Gulf South Conference,2,,
+520,520,Missouri University of Science and Technology,Miners,Rolla,MO,Great Lakes Valley Conference,2,/wiki/UTEP_Miners,https://upload.wikimedia.org/wikipedia/en/0/06/UTEP_Miners_logo.svg
+521,521,Missouri Southern State University,Lions,Joplin,MO,Mid-America Intercollegiate Athletics Association,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+522,522,Missouri Western State University,Griffons,St. Joseph,MO,Mid-America Intercollegiate Athletics Association,2,,
+523,523,University of Missouri–St. Louis,Tritons,St. Louis,MO,Great Lakes Valley Conference,2,,
+524,524,Molloy College,Lions,Rockville Centre,NY,East Coast Conference,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+525,525,Montana State University Billings,Yellowjackets,Billings,MT,Great Northwest Athletic Conference,2,,
+526,526,University of Montevallo,Falcons,Montevallo,AL,Gulf South Conference,2,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+527,527,Morehouse College,Maroon Tigers,Atlanta,GA,Southern Intercollegiate Athletic Conference,2,,
+528,528,University of Mount Olive,Trojans,Mount Olive,NC,Conference Carolinas,2,/wiki/USC_Trojans,https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg
+529,529,University of Nebraska at Kearney,Lopers,Kearney,NE,Mid-America Intercollegiate Athletics Association,2,,
+530,530,University of New Haven,Chargers,West Haven,CT,Northeast-10 Conference,2,,
+531,531,New Mexico Highlands University,Cowboys & Cowgirls,Las Vegas,NM,Rocky Mountain Athletic Conference,2,,
+532,532,Newberry College,Wolves,Newberry,SC,South Atlantic Conference,2,,
+533,533,Newman University,Jets,Wichita,KS,Mid-America Intercollegiate Athletics Association,2,,
+534,534,University of North Carolina at Pembroke,Braves,Pembroke,NC,Conference Carolinas,2,/wiki/Bradley_Braves,https://upload.wikimedia.org/wikipedia/commons/7/7b/Bradley_Braves_logo.svg
+535,535,University of North Georgia,Nighthawks,Dahlonega,GA,Peach Belt Conference,2,,
+536,536,North Greenville University,Crusaders,Tigerville,SC,Conference Carolinas,2,/wiki/Holy_Cross_Crusaders,https://upload.wikimedia.org/wikipedia/commons/f/f5/Holy_Cross_Crusaders_logo.svg
+537,537,Northeastern State University,RiverHawks,Tahlequah,OK,Mid-America Intercollegiate Athletics Association,2,,
+538,538,Northern Michigan University,Wildcats,Marquette,MI,Great Lakes Intercollegiate Athletic Conference,2,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+539,539,Northern State University,Wolves,Aberdeen,SD,Northern Sun Intercollegiate Conference,2,,
+540,540,Northwest Missouri State University,Bearcats,Maryville,MO,Mid-America Intercollegiate Athletics Association,2,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+541,541,Northwest Nazarene University,Nighthawks,Nampa,ID,Great Northwest Athletic Conference,2,,
+542,542,Northwestern Oklahoma State University,Rangers,Alva,OK,Great American Conference,2,,
+543,543,Northwood University,Timberwolves,Midland,MI,Great Lakes Intercollegiate Athletic Conference(Great Midwest Athletic Conference in 2022),2,,
+544,544,Notre Dame College,Falcons,South Euclid,OH,Mountain East Conference,2,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+545,545,Nova Southeastern University,Sharks,Davie,FL,Sunshine State Conference,2,/wiki/LIU_Sharks,https://upload.wikimedia.org/wikipedia/en/f/fd/LIU_Sharks_logo.svg
+546,546,Nyack College,Warriors,Nyack,NY,Central Atlantic Collegiate Conference,2,,
+547,547,Ohio Dominican University,Panthers,Columbus,OH,Great Midwest Athletic Conference,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+548,548,Oklahoma Baptist University,Bison,Shawnee,OK,Great American Conference,2,/wiki/North_Dakota_State_Bison,https://upload.wikimedia.org/wikipedia/en/7/74/North_Dakota_State_Bison_logo.svg
+549,549,Oklahoma Christian University,Eagles & Lady Eagles,Oklahoma City,OK,Lone Star Conference,2,,
+550,550,Ouachita Baptist University,Tigers,Arkadelphia,AR,Great American Conference,2,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+551,551,Pace University,Setters,Pleasantville,NY,Northeast-10 Conference,2,,
+552,552,Palm Beach Atlantic University,Sailfish,West Palm Beach,FL,Sunshine State Conference,2,,
+553,553,University of Wisconsin–Parkside (Parkside),Rangers,Kenosha,WI,Great Lakes Intercollegiate Athletic Conference,2,,
+554,554,Pittsburg State University,Gorillas,Pittsburg,KS,Mid-America Intercollegiate Athletics Association,2,,
+555,555,University of Pittsburgh at Johnstown,Mountain Cats,Johnstown,PA,Pennsylvania State Athletic Conference,2,,
+556,556,Point Loma Nazarene University,Sea Lions,San Diego,CA,Pacific West Conference,2,,
+557,557,Post University,Eagles,Waterbury,CT,Central Atlantic Collegiate Conference,2,,
+558,558,University of Puerto Rico at Bayamón,Cowboys,Bayamón,PR,Independent,2,/wiki/Wyoming_Cowboys_and_Cowgirls,https://upload.wikimedia.org/wikipedia/commons/9/91/Wyoming_Athletics_logo.svg
+559,559,University of Puerto Rico at Mayagüez,Bulldogs,Mayagüez,PR,Independent,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+560,560,University of Puerto Rico at Río Piedras,Gallitos,San Juan,PR,Independent,2,,
+561,561,Purdue University Northwest,Pride,Hammond,IN,Great Lakes Intercollegiate Athletic Conference,2,/wiki/Hofstra_Pride,https://upload.wikimedia.org/wikipedia/en/1/12/Hofstra_Pride_logo.svg
+562,562,Queens College,Knights,Flushing,NY,East Coast Conference,2,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+563,563,Queens University of Charlotte[c],Royals,Charlotte,NC,South Atlantic Conference,2,/wiki/Queens_Royals,https://upload.wikimedia.org/wikipedia/en/e/e0/Queens_Royals_primary_logo.svg
+564,564,Quincy University,Hawks,Quincy,IL,Great Lakes Valley Conference,2,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+565,565,Regis University,Rangers,Denver,CO,Rocky Mountain Athletic Conference,2,,
+566,566,Roberts Wesleyan College,Redhawks,North Chili,NY,East Coast Conference,2,/wiki/Southeast_Missouri_State_Redhawks,https://upload.wikimedia.org/wikipedia/en/b/b6/SEMO_Redhawks_logo.png
+567,567,Rockhurst University,Hawks,Kansas City,MO,Great Lakes Valley Conference,2,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+568,568,Rogers State University,Hillcats,Claremore,OK,Mid-America Intercollegiate Athletics Association,2,,
+569,569,Rollins College,Tars,Winter Park,FL,Sunshine State Conference,2,,
+570,570,Saginaw Valley State University,Cardinals,University Center,MI,Great Lakes Intercollegiate Athletic Conference,2,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+571,571,Saint Anselm College,Hawks,Goffstown,NH,Northeast-10 Conference,2,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+572,572,Saint Augustine's University,Falcons,Raleigh,NC,Central Intercollegiate Athletic Association,2,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+573,573,St. Cloud State University,Huskies,St. Cloud,MN,Northern Sun Intercollegiate Conference,2,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+574,574,St. Edward's University,Hilltoppers,Austin,TX,Lone Star Conference,2,/wiki/Western_Kentucky_Hilltoppers_and_Lady_Toppers,https://upload.wikimedia.org/wikipedia/en/1/1d/WKU_Athletics_logo.svg
+575,575,Saint Leo University,Lions,St. Leo,FL,Sunshine State Conference,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+576,576,Saint Martin's University,Saints,Lacey,WA,Great Northwest Athletic Conference,2,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+577,577,St. Mary's University,Rattlers,San Antonio,TX,Lone Star Conference,2,/wiki/Florida_A%26M_Rattlers_and_Lady_Rattlers,https://upload.wikimedia.org/wikipedia/commons/7/78/FAMU_Rattler.png
+578,578,Saint Michael's College,Purple Knights,Colchester,VT,Northeast-10 Conference,2,,
+579,579,College of Saint Rose,Golden Knights,Albany,NY,Northeast-10 Conference,2,,
+580,580,St. Thomas Aquinas College,Spartans,Sparkill,NY,East Coast Conference,2,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+581,581,Salem University,Tigers,Salem,WV,Independent,2,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+582,582,San Francisco State University,Gators,San Francisco,CA,California Collegiate Athletic Association,2,/wiki/Florida_Gators,https://upload.wikimedia.org/wikipedia/en/1/14/Florida_Gators_gator_logo.svg
+583,583,Savannah State University,Tigers,Savannah,GA,Southern Intercollegiate Athletic Conference,2,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+584,584,University of the Sciences[d],Devils,Philadelphia,PA,Central Atlantic Collegiate Conference,2,,
+585,585,Seattle Pacific University,Falcons,Seattle,WA,Great Northwest Athletic Conference,2,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+586,586,Seton Hill University,Griffins,Greensburg,PA,Pennsylvania State Athletic Conference,2,,
+587,587,Shaw University,Bears,Raleigh,NC,Central Intercollegiate Athletic Association,2,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+588,588,Shepherd University,Rams,Shepherdstown,WV,Pennsylvania State Athletic Conference,2,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+589,589,Shippensburg University of Pennsylvania,Raiders,Shippensburg,PA,Pennsylvania State Athletic Conference,2,/wiki/Wright_State_Raiders,https://upload.wikimedia.org/wikipedia/en/c/c2/Wright_State_Raiders_logo.svg
+590,590,Shorter University,Hawks,Rome,GA,Gulf South Conference,2,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+591,591,Simon Fraser University,None,Burnaby,,Great Northwest Athletic Conference,2,,
+592,592,University of Sioux Falls,Cougars,Sioux Falls,SD,Northern Sun Intercollegiate Conference,2,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+593,593,Slippery Rock University of Pennsylvania,The Rock,Slippery Rock,PA,Pennsylvania State Athletic Conference,2,,
+594,594,Sonoma State University,Seawolves,Rohnert Park,CA,California Collegiate Athletic Association,2,/wiki/Stony_Brook_Seawolves,https://upload.wikimedia.org/wikipedia/en/3/35/Stony_Brook_Seawolves_logo.svg
+595,595,University of South Carolina Aiken,Pacers,Aiken,SC,Peach Belt Conference,2,,
+596,596,South Dakota School of Mines and Technology,Hardrockers,Rapid City,SD,Rocky Mountain Athletic Conference,2,,
+597,597,Southeastern Oklahoma State University,Savage Storm,Durant,OK,Great American Conference,2,,
+598,598,Southern Arkansas University,Muleriders,Magnolia,AR,Great American Conference,2,,
+599,599,Southern Connecticut State University,Owls,New Haven,CT,Northeast-10 Conference,2,,
+600,600,University of Southern Indiana[b],Screaming Eagles,Evansville,IN,Great Lakes Valley Conference,2,/wiki/Southern_Indiana_Screaming_Eagles,https://upload.wikimedia.org/wikipedia/en/8/80/University_of_Southern_Indiana_Athletics_Logo.png
+601,601,Southern Nazarene University,Crimson Storm,Bethany,OK,Great American Conference,2,,
+602,602,Southern New Hampshire University,Penmen,Manchester and Hooksett[e]>,NH,Northeast-10 Conference,2,,
+603,603,Southern Wesleyan University,Warriors,Central,SC,Conference Carolinas,2,,
+604,604,Southwest Baptist University,Bearcats,Bolivar,MO,Great Lakes Valley Conference,2,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+605,605,Southwest Minnesota State University,Mustangs,Marshall,MN,Northern Sun Intercollegiate Conference,2,/wiki/SMU_Mustangs,https://upload.wikimedia.org/wikipedia/commons/3/33/SMU_Mustang_logo.svg
+606,606,Southwestern Oklahoma State University,Bulldogs,Weatherford,OK,Great American Conference,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+607,607,Spring Hill College,Badgers,Mobile,AL,Southern Intercollegiate Athletic Conference,2,/wiki/Wisconsin_Badgers,https://upload.wikimedia.org/wikipedia/commons/e/e5/Wisconsin_Badgers_logo.svg
+608,608,Stonehill College,Skyhawks,Easton,MA,Northeast-10 Conference,2,/wiki/Stonehill_Skyhawks,https://upload.wikimedia.org/wikipedia/commons/e/ed/Stonehill_Skyhawks_logo.svg
+609,609,University of Tampa,Spartans,Tampa,FL,Sunshine State Conference,2,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+610,610,Texas A&M University–Commerce,Lions,Commerce,TX,Lone Star Conference,2,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+611,611,Texas A&M University–Kingsville,Javelinas,Kingsville,TX,Lone Star Conference,2,,
+612,612,Texas A&M International University,Dustdevils,Laredo,TX,Lone Star Conference,2,,
+613,613,Texas Woman's University,Pioneers,Denton,TX,Lone Star Conference,2,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+614,614,University of Texas Permian Basin,Falcons,Odessa,TX,Lone Star Conference,2,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+615,615,University of Texas at Tyler,Patriots,Tyler,TX,Lone Star Conference,2,/wiki/George_Mason_Patriots,https://upload.wikimedia.org/wikipedia/en/f/f8/George_Mason_Patriots_logo.svg
+616,616,Tiffin University,Dragons,Tiffin,OH,Great Midwest Athletic Conference,2,/wiki/Drexel_Dragons,https://upload.wikimedia.org/wikipedia/en/1/16/Drexel_Dragons_logo.svg
+617,617,Trevecca Nazarene University,Trojans,Nashville,TN,Great Midwest Athletic Conference,2,/wiki/USC_Trojans,https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg
+618,618,Truman State University,Bulldogs,Kirksville,MO,Great Lakes Valley Conference,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+619,619,Tusculum University,Pioneers,Greeneville,TN,South Atlantic Conference,2,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+620,620,Tuskegee University,Golden Tigers,Tuskegee,AL,Southern Intercollegiate Athletic Conference,2,,
+621,621,Union University,Bulldogs,Jackson,TN,Gulf South Conference,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+622,622,Upper Iowa University,Peacocks,Fayette,IA,Northern Sun Intercollegiate Conference,2,/wiki/Saint_Peter%27s_Peacocks,https://upload.wikimedia.org/wikipedia/en/9/97/Saint_Peter%27s_Peacocks_logo.svg
+623,623,Ursuline College,Arrows,Pepper Pike,OH,Great Midwest Athletic Conference,2,,
+624,624,Valdosta State University,Blazers,Valdosta,GA,Gulf South Conference,2,/wiki/UAB_Blazers,https://upload.wikimedia.org/wikipedia/en/f/ff/UAB_Blazers_logo.svg
+625,625,Virginia State University,Trojans,Ettrick,VA,Central Intercollegiate Athletic Association,2,/wiki/USC_Trojans,https://upload.wikimedia.org/wikipedia/commons/9/94/USC_Trojans_logo.svg
+626,626,Virginia Union University,Panthers,Richmond,VA,Central Intercollegiate Athletic Association,2,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+627,627,University of Virginia's College at Wise (UVA Wise),Cavaliers,Wise,VA,South Atlantic Conference,2,/wiki/Virginia_Cavaliers,https://upload.wikimedia.org/wikipedia/en/1/1e/Virginia_Cavaliers_logo.svg
+628,628,Walsh University,Cavaliers,North Canton,OH,Great Midwest Athletic Conference,2,/wiki/Virginia_Cavaliers,https://upload.wikimedia.org/wikipedia/en/1/1e/Virginia_Cavaliers_logo.svg
+629,629,Washburn University,Ichabods,Topeka,KS,Mid-America Intercollegiate Athletics Association,2,,
+630,630,Wayne State University,Warriors,Detroit,MI,Great Lakes Intercollegiate Athletic Conference,2,,
+631,631,Wayne State College,Wildcats,Wayne,NE,Northern Sun Intercollegiate Conference,2,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+632,632,University of West Alabama,Tigers,Livingston,AL,Gulf South Conference,2,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+633,633,West Chester University,Golden Rams,West Chester,PA,Pennsylvania State Athletic Conference,2,,
+634,634,University of West Florida,Argonauts,Pensacola,FL,Gulf South Conference,2,,
+635,635,University of West Georgia,Wolves,Carrollton,GA,Gulf South Conference,2,,
+636,636,West Liberty University,Hilltoppers,West Liberty,WV,Mountain East Conference,2,/wiki/Western_Kentucky_Hilltoppers_and_Lady_Toppers,https://upload.wikimedia.org/wikipedia/en/1/1d/WKU_Athletics_logo.svg
+637,637,West Texas A&M University,Buffaloes,Canyon,TX,Lone Star Conference,2,/wiki/Colorado_Buffaloes,https://upload.wikimedia.org/wikipedia/en/d/d3/Colorado_Buffaloes_logo.svg
+638,638,West Virginia State University,Yellow Jackets,Institute,WV,Mountain East Conference,2,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+639,639,West Virginia Wesleyan College,Bobcats,Buckhannon,WV,Mountain East Conference,2,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+640,640,Western Colorado University,Mountaineers,Gunnison,CO,Rocky Mountain Athletic Conference,2,/wiki/West_Virginia_Mountaineers,https://upload.wikimedia.org/wikipedia/commons/e/e8/West_Virginia_Mountaineers_logo.svg
+641,641,Western New Mexico University,Mustangs,Silver City,NM,Lone Star Conference,2,/wiki/SMU_Mustangs,https://upload.wikimedia.org/wikipedia/commons/3/33/SMU_Mustang_logo.svg
+642,642,Western Oregon University,Wolves,Monmouth,OR,Great Northwest Athletic Conference,2,,
+643,643,Western Washington University,Vikings,Bellingham,WA,Great Northwest Athletic Conference,2,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+644,644,Westminster College,Griffins,Salt Lake City,UT,Rocky Mountain Athletic Conference,2,,
+645,645,Wheeling University,Cardinals,Wheeling,WV,Mountain East Conference,2,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+646,646,William Jewell College,Cardinals,Liberty,MO,Great Lakes Valley Conference,2,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+647,647,Wilmington University,Wildcats,New Castle,DE,Central Atlantic Collegiate Conference,2,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+648,648,Wingate University,Bulldogs,Wingate,NC,South Atlantic Conference,2,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+649,649,Winona State University,Warriors,Winona,MN,Northern Sun Intercollegiate Conference,2,,
+650,650,Winston–Salem State University,Rams,Winston–Salem,NC,Central Intercollegiate Athletic Association,2,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+651,651,Young Harris College,Mountain Lions,Young Harris,GA,Peach Belt Conference,2,,
+652,652,Adrian College,Bulldogs,Adrian,MI,Michigan Intercollegiate Athletic Association,3,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+653,653,Agnes Scott College,Scotties,Decatur,GA,USA South Athletic Conference(Collegiate Conference of the South in 2022),3,,
+654,654,Albertus Magnus College,Falcons,New Haven,CT,Great Northeast Athletic Conference,3,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+655,655,Albion College,Britons,Albion,MI,Michigan Intercollegiate Athletic Association,3,,
+656,656,Albright College,Lions,Reading,PA,MAC Commonwealth,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+657,657,Alfred University,Saxons,Alfred,NY,Empire 8,3,,
+658,658,Alfred State College,Pioneers,Alfred,NY,Allegheny Mountain Collegiate Conference,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+659,659,Allegheny College,Gators,Meadville,PA,North Coast Athletic Conference(Presidents' Athletic Conference in 2022),3,/wiki/Florida_Gators,https://upload.wikimedia.org/wikipedia/en/1/14/Florida_Gators_gator_logo.svg
+660,660,Alma College,Scots,Alma,MI,Michigan Intercollegiate Athletic Association,3,,
+661,661,Alvernia University,Golden Wolves,Reading,PA,MAC Commonwealth,3,,
+662,662,Alverno College,Inferno,Milwaukee,WI,Northern Athletics Collegiate Conference,3,,
+663,663,Amherst College,Mammoths,Amherst,MA,New England Small College Athletic Conference,3,,
+664,664,Anderson University,Ravens and Lady Ravens,Anderson,IN,Heartland Collegiate Athletic Conference,3,,
+665,665,Anna Maria College,Amcats,Paxton,MA,Great Northeast Athletic Conference,3,,
+666,666,Arcadia University,Knights,Glenside,PA,MAC Freedom,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+667,667,Asbury University[A 1],Eagles,Wilmore,KY,Independent,3,,
+668,668,Augsburg University,Auggies,Minneapolis,MN,Minnesota Intercollegiate Athletic Conference,3,,
+669,669,Augustana College,Vikings,Rock Island,IL,College Conference of Illinois and Wisconsin,3,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+670,670,Aurora University,Spartans,Aurora,IL,Northern Athletics Collegiate Conference,3,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+671,671,Austin College,Kangaroos,Sherman,TX,Southern Collegiate Athletic Conference,3,,
+672,672,Averett University,Cougars,Danville,VA,USA South Athletic Conference(Old Dominion Athletic Conference in 2022),3,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+673,673,Babson College,Beavers,Wellesley,MA,New England Women's and Men's Athletic Conference,3,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+674,674,Baldwin Wallace University,Yellow Jackets,Berea,OH,Ohio Athletic Conference,3,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+675,675,Bard College,Raptors,Annandale-on-Hudson,NY,Liberty League,3,,
+676,676,Baruch College,Bearcats,New York,NY,City University of New York Athletic Conference,3,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+677,677,Bates College,Bobcats,Lewiston,ME,New England Small College Athletic Conference,3,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+678,678,Belhaven University,Blazers,Jackson,MS,American Southwest Conference(Collegiate Conference of the South in 2022),3,/wiki/UAB_Blazers,https://upload.wikimedia.org/wikipedia/en/f/ff/UAB_Blazers_logo.svg
+679,679,Beloit College,Buccaneers,Beloit,WI,Midwest Conference,3,/wiki/East_Tennessee_State_Buccaneers,https://upload.wikimedia.org/wikipedia/commons/a/ab/East_Tennessee_State_Buccaneers_logo.svg
+680,680,Benedictine University,Eagles,Lisle,IL,Northern Athletics Collegiate Conference,3,,
+681,681,Berea College,Mountaineers,Berea,KY,USA South Athletic Conference(Collegiate Conference of the South in 2022),3,/wiki/West_Virginia_Mountaineers,https://upload.wikimedia.org/wikipedia/commons/e/e8/West_Virginia_Mountaineers_logo.svg
+682,682,Berry College,Vikings,Mount Berry,GA,Southern Athletic Association,3,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+683,683,Bethany College,Bison,Bethany,WV,Presidents' Athletic Conference,3,/wiki/North_Dakota_State_Bison,https://upload.wikimedia.org/wikipedia/en/7/74/North_Dakota_State_Bison_logo.svg
+684,684,Bethany Lutheran College,Vikings,Mankato,MN,Upper Midwest Athletic Conference,3,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+685,685,Bethel University,Royals,Arden Hills,MN,Minnesota Intercollegiate Athletic Conference,3,/wiki/Queens_Royals,https://upload.wikimedia.org/wikipedia/en/e/e0/Queens_Royals_primary_logo.svg
+686,686,Birmingham–Southern College,Panthers,Birmingham,AL,Southern Athletic Association,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+687,687,Blackburn College,Beavers,Carlinville,IL,St. Louis Intercollegiate Athletic Conference,3,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+688,688,Bluffton University,Beavers,Bluffton,OH,Heartland Collegiate Athletic Conference,3,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+689,689,Bob Jones University[A 2],Bruins,Greenville,SC,Independent,3,,
+690,690,Bowdoin College,Polar Bears,Brunswick,ME,New England Small College Athletic Conference,3,,
+691,691,Brandeis University,Judges,Waltham,MA,University Athletic Association,3,,
+692,692,Brevard College,Tornados,Brevard,NC,USA South Athletic Conference,3,,
+693,693,Bridgewater College,Eagles,Bridgewater,VA,Old Dominion Athletic Conference,3,,
+694,694,Bridgewater State University,Bears,Bridgewater,MA,Massachusetts State Collegiate Athletic Conference,3,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+695,695,Brooklyn College,Bulldogs,Brooklyn,NY,City University of New York Athletic Conference,3,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+696,696,Bryn Athyn College,Lions,Bryn Athyn,PA,Colonial States Athletic Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+697,697,Bryn Mawr College,Owls,Bryn Mawr,PA,Centennial Conference,3,,
+698,698,Buena Vista University,Beavers,Storm Lake,IA,American Rivers Conference,3,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+699,699,Buffalo State College,Bengals,Buffalo,NY,State University of New York Athletic Conference,3,/wiki/Idaho_State_Bengals,https://upload.wikimedia.org/wikipedia/en/6/63/Idaho_State_Bengals_logo.svg
+700,700,Cabrini University,Cavaliers,Radnor,PA,Atlantic East Conference,3,/wiki/Virginia_Cavaliers,https://upload.wikimedia.org/wikipedia/en/1/1e/Virginia_Cavaliers_logo.svg
+701,701,Cairn University,Highlanders,Langhorne,PA,Colonial States Athletic Conference,3,/wiki/UC_Riverside_Highlanders,https://upload.wikimedia.org/wikipedia/commons/2/21/UC_Riverside_Highlanders_logo.svg
+702,702,California Institute of Technology,Beavers,Pasadena,CA,Southern California Intercollegiate Athletic Conference,3,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+703,703,California Lutheran University,Kingsmen,Thousand Oaks,CA,Southern California Intercollegiate Athletic Conference,3,,
+704,704,"University of California, Santa Cruz (UC Santa Cruz)",Banana Slugs,Santa Cruz,CA,Coast to Coast Athletic Conference,3,,
+705,705,Calvin University,Knights,Grand Rapids,MI,Michigan Intercollegiate Athletic Association,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+706,706,Capital University,Crusaders,Bexley,OH,Ohio Athletic Conference,3,/wiki/Holy_Cross_Crusaders,https://upload.wikimedia.org/wikipedia/commons/f/f5/Holy_Cross_Crusaders_logo.svg
+707,707,Carleton College,Knights,Northfield,MN,Minnesota Intercollegiate Athletic Conference,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+708,708,Carnegie Mellon University,Tartans,Pittsburgh,PA,University Athletic Association,3,,
+709,709,Carroll University,Pioneers,Waukesha,WI,College Conference of Illinois and Wisconsin,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+710,710,Carthage College,Firebirds,Kenosha,WI,College Conference of Illinois and Wisconsin,3,,
+711,711,Case Western Reserve University,Spartans,Cleveland,OH,University Athletic Association,3,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+712,712,Castleton University,Spartans,Castleton,VT,Little East Conference,3,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+713,713,Catholic University of America,Cardinals,Washington,DC,Landmark Conference,3,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+714,714,Cazenovia College,Wildcats,Cazenovia,NY,North Atlantic Conference,3,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+715,715,Cedar Crest College,Falcons,Allentown,PA,Colonial States Athletic Conference,3,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+716,716,Centenary College of Louisiana,Gents and Ladies,Shreveport,LA,Southern Collegiate Athletic Conference,3,,
+717,717,Centenary University,Cyclones,Hackettstown,NJ,Colonial States Athletic Conference,3,,
+718,718,Central College,Dutch,Pella,IA,American Rivers Conference,3,,
+719,719,Centre College,Colonels,Danville,KY,Southern Athletic Association,3,/wiki/Nicholls_Colonels,https://upload.wikimedia.org/wikipedia/en/b/bb/Nicholls_State_Colonels_logo.svg
+720,720,Chapman University,Panthers,Orange,CA,Southern California Intercollegiate Athletic Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+721,721,Chatham University,Cougars,Pittsburgh,PA,Presidents' Athletic Conference,3,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+722,722,University of Chicago,Maroons,Chicago,IL,University Athletic Association,3,,
+723,723,Christopher Newport University,Captains,Newport News,VA,Coast to Coast Athletic Conference,3,,
+724,724,City College of New York (CCNY),Beavers,New York,NY,City University of New York Athletic Conference,3,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+725,725,"Claremont McKenna College, Harvey Mudd College, and Scripps College[A 4]",Stags and Athenas,Claremont,CA,Southern California Intercollegiate Athletic Conference,3,,
+726,726,Clark University,Cougars,Worcester,MA,New England Women's and Men's Athletic Conference,3,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+727,727,Clarks Summit University,Defenders,Clarks Summit,PA,Colonial States Athletic Conference,3,,
+728,728,Clarkson University[A 5][A 6],Golden Knights,Potsdam,NY,Liberty League,3,,
+729,729,Coe College,Kohawks,Cedar Rapids,IA,American Rivers Conference,3,,
+730,730,Colby College,Mules,Waterville,ME,New England Small College Athletic Conference,3,,
+731,731,Colby–Sawyer College,Chargers,New London,NH,Great Northeast Athletic Conference,3,,
+732,732,Colorado College[A 5][A 7],Tigers,Colorado Springs,CO,Southern Collegiate Athletic Conference,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+733,733,Concordia College,Cobbers,Moorhead,MN,Minnesota Intercollegiate Athletic Conference,3,,
+734,734,Concordia University Chicago,Cougars,River Forest,IL,Northern Athletics Collegiate Conference,3,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+735,735,Concordia University Texas,Tornados,Austin,TX,American Southwest Conference,3,,
+736,736,Concordia University Wisconsin,Falcons,Mequon,WI,Northern Athletics Collegiate Conference,3,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+737,737,Connecticut College,Camels,New London,CT,New England Small College Athletic Conference,3,,
+738,738,Cornell College,Rams,Mount Vernon,IA,Midwest Conference,3,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+739,739,Covenant College,Scots,Lookout Mountain,GA,USA South Athletic Conference(Collegiate Conference of the South in 2022),3,,
+740,740,Crown College,Storm,St. Bonifacius,MN,Upper Midwest Athletic Conference,3,,
+741,741,Curry College,Colonels,Milton,MA,Commonwealth Coast Conference,3,/wiki/Nicholls_Colonels,https://upload.wikimedia.org/wikipedia/en/b/bb/Nicholls_State_Colonels_logo.svg
+742,742,University of Dallas,Crusaders,Irving,TX,Southern Collegiate Athletic Conference,3,/wiki/Holy_Cross_Crusaders,https://upload.wikimedia.org/wikipedia/commons/f/f5/Holy_Cross_Crusaders_logo.svg
+743,743,Dean College,Bulldogs,Franklin,MA,Great Northeast Athletic Conference,3,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+744,744,Defiance College,Yellow Jackets and Lady Jackets,Defiance,OH,Heartland Collegiate Athletic Conference,3,,
+745,745,Delaware Valley University,Aggies,Doylestown,PA,MAC Freedom,3,/wiki/Utah_State_Aggies,https://upload.wikimedia.org/wikipedia/commons/5/59/Utah_State_Aggies_logo.svg
+746,746,Denison University,Big Red,Granville,OH,North Coast Athletic Conference,3,/wiki/Cornell_Big_Red,https://upload.wikimedia.org/wikipedia/en/9/9b/Cornell_Big_Red_logo.svg
+747,747,DePauw University,Tigers,Greencastle,IN,North Coast Athletic Conference,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+748,748,DeSales University,Bulldogs,Center Valley,PA,MAC Freedom,3,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+749,749,Dickinson College,Red Devils,Carlisle,PA,Centennial Conference,3,,
+750,750,Dominican University,Stars,River Forest,IL,Northern Athletics Collegiate Conference,3,,
+751,751,Drew University,Rangers,Madison,NJ,Landmark Conference,3,,
+752,752,University of Dubuque,Spartans,Dubuque,IA,American Rivers Conference,3,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+753,753,Earlham College,Quakers,Richmond,IN,Heartland Collegiate Athletic Conference,3,/wiki/Penn_Quakers,https://upload.wikimedia.org/wikipedia/commons/c/c7/Penn_Quakers_logo.svg
+754,754,East Texas Baptist University,Tigers,Marshall,TX,American Southwest Conference,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+755,755,Eastern Connecticut State University,Warriors,Willimantic,CT,Little East Conference,3,,
+756,756,Eastern Mennonite University,Royals,Harrisonburg,VA,Old Dominion Athletic Conference,3,/wiki/Queens_Royals,https://upload.wikimedia.org/wikipedia/en/e/e0/Queens_Royals_primary_logo.svg
+757,757,Eastern Nazarene College,Lions,Quincy,MA,New England Collegiate Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+758,758,Eastern University,Eagles,St. Davids,PA,MAC Commonwealth,3,,
+759,759,Edgewood College,Eagles,Madison,WI,Northern Athletics Collegiate Conference,3,,
+760,760,Elizabethtown College,Blue Jays,Elizabethtown,PA,Landmark Conference,3,,
+761,761,Elmhurst University,Bluejays,Elmhurst,IL,College Conference of Illinois and Wisconsin,3,/wiki/Creighton_Bluejays,https://upload.wikimedia.org/wikipedia/en/6/6f/Creighton_Bluejays_logo.svg
+762,762,Elmira College,Soaring Eagles,Elmira,NY,Empire 8,3,,
+763,763,Elms College,Blazers,Chicopee,MA,Great Northeast Athletic Conference,3,/wiki/UAB_Blazers,https://upload.wikimedia.org/wikipedia/en/f/ff/UAB_Blazers_logo.svg
+764,764,Emerson College,Lions,Boston,MA,New England Women's and Men's Athletic Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+765,765,Emmanuel College,Saints,Boston,MA,Great Northeast Athletic Conference,3,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+766,766,Emory University,Eagles,Atlanta,GA,University Athletic Association,3,,
+767,767,Endicott College,Gulls,Beverly,MA,Commonwealth Coast Conference,3,,
+768,768,Eureka College,Red Devils,Eureka,IL,St. Louis Intercollegiate Athletic Conference,3,,
+769,769,"Fairleigh Dickinson University, Florham",Devils,Madison/Florham Park,NJ,MAC Freedom,3,,
+770,770,Farmingdale State College,Rams,Farmingdale,NY,Skyline Conference,3,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+771,771,Ferrum College,Panthers,Ferrum,VA,Old Dominion Athletic Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+772,772,Finlandia University,Lions,Hancock,MI,Coast to Coast Athletic Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+773,773,Fitchburg State University,Falcons,Fitchburg,MA,Massachusetts State Collegiate Athletic Conference,3,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+774,774,Fontbonne University,Griffins,St. Louis,MO,St. Louis Intercollegiate Athletic Conference,3,,
+775,775,Framingham State University,Rams,Framingham,MA,Massachusetts State Collegiate Athletic Conference,3,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+776,776,Franciscan University of Steubenville,Barons,Steubenville,OH,Presidents' Athletic Conference,3,,
+777,777,Franklin & Marshall College[A 8],Diplomats,Lancaster,PA,Centennial Conference,3,,
+778,778,Franklin College,Grizzlies,Franklin,IN,Heartland Collegiate Athletic Conference,3,/wiki/Montana_Grizzlies_and_Lady_Griz,https://upload.wikimedia.org/wikipedia/commons/3/3b/Montana_Griz_logo.svg
+779,779,Gallaudet University,Bison,Washington,DC,United East Conference,3,/wiki/North_Dakota_State_Bison,https://upload.wikimedia.org/wikipedia/en/7/74/North_Dakota_State_Bison_logo.svg
+780,780,Geneva College,Golden Tornadoes,Beaver Falls,PA,Presidents' Athletic Conference,3,,
+781,781,George Fox University,Bruins,Newberg,OR,Northwest Conference,3,,
+782,782,Gettysburg College,Bullets,Gettysburg,PA,Centennial Conference,3,,
+783,783,Gordon College,Fighting Scots,Wenham,MA,Commonwealth Coast Conference,3,,
+784,784,Goucher College,Gophers,Towson,MD,Landmark Conference,3,,
+785,785,Greensboro College,Pride,Greensboro,NC,USA South Athletic Conference,3,/wiki/Hofstra_Pride,https://upload.wikimedia.org/wikipedia/en/1/12/Hofstra_Pride_logo.svg
+786,786,Greenville University,Panthers,Greenville,IL,St. Louis Intercollegiate Athletic Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+787,787,Grinnell College,Pioneers,Grinnell,IA,Midwest Conference,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+788,788,Grove City College,Wolverines,Grove City,PA,Presidents' Athletic Conference,3,/wiki/Utah_Valley_Wolverines,https://upload.wikimedia.org/wikipedia/en/c/c8/Utah_Valley_Wolverines_logo.svg
+789,789,Guilford College,Quakers,Greensboro,NC,Old Dominion Athletic Conference,3,/wiki/Penn_Quakers,https://upload.wikimedia.org/wikipedia/commons/c/c7/Penn_Quakers_logo.svg
+790,790,Gustavus Adolphus College,Gusties,St. Peter,MN,Minnesota Intercollegiate Athletic Conference,3,,
+791,791,Gwynedd Mercy University,Griffins,Lower Gwynedd Township,PA,Atlantic East Conference,3,,
+792,792,Hamilton College,Continentals,Clinton,NY,New England Small College Athletic Conference,3,,
+793,793,Hamline University,Pipers,St. Paul,MN,Minnesota Intercollegiate Athletic Conference,3,,
+794,794,Hampden–Sydney College,Tigers,Hampden Sydney,VA,Old Dominion Athletic Conference,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+795,795,Hanover College,Panthers,Hanover,IN,Heartland Collegiate Athletic Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+796,796,Hardin–Simmons University,Cowboys and Cowgirls,Abilene,TX,American Southwest Conference,3,,
+797,797,Hartwick College,Hawks,Oneonta,NY,Empire 8,3,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+798,798,Haverford College,Fords,Haverford,PA,Centennial Conference,3,,
+799,799,Heidelberg University,Student Princes,Tiffin,OH,Ohio Athletic Conference,3,,
+800,800,Hendrix College,Warriors,Conway,AR,Southern Athletic Association,3,,
+801,801,Hilbert College,Hawks,Hamburg,NY,Allegheny Mountain Collegiate Conference,3,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+802,802,Hiram College,Terriers,Hiram,OH,North Coast Athletic Conference,3,/wiki/Wofford_Terriers,https://upload.wikimedia.org/wikipedia/en/5/5b/Wofford_Terriers_logo.svg
+803,803,Hobart College[A 10],Statesmen,Geneva,NY,Liberty League,3,,
+804,804,Hollins University,None,Roanoke,VA,Old Dominion Athletic Conference,3,,
+805,805,Hood College,Blazers,Frederick,MD,MAC Commonwealth,3,/wiki/UAB_Blazers,https://upload.wikimedia.org/wikipedia/en/f/ff/UAB_Blazers_logo.svg
+806,806,Hope College,Flying Dutchmen,Holland,MI,Michigan Intercollegiate Athletic Association,3,,
+807,807,Houghton College,Highlanders,Houghton,NY,Empire 8,3,/wiki/UC_Riverside_Highlanders,https://upload.wikimedia.org/wikipedia/commons/2/21/UC_Riverside_Highlanders_logo.svg
+808,808,Howard Payne University,Yellow Jackets,Brownwood,TX,American Southwest Conference,3,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+809,809,Hunter College,Hawks,New York,NY,City University of New York Athletic Conference,3,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+810,810,Huntingdon College,Hawks,Montgomery,AL,USA South Athletic Conference(Collegiate Conference of the South in 2022),3,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+811,811,Husson University,Eagles,Bangor,ME,North Atlantic Conference,3,,
+812,812,Illinois College,Blueboys and Lady Blues,Jacksonville,IL,Midwest Conference,3,,
+813,813,Illinois Institute of Technology,Scarlet Hawks,Chicago,IL,Northern Athletics Collegiate Conference,3,,
+814,814,Illinois Wesleyan University,Titans,Bloomington,IL,College Conference of Illinois and Wisconsin,3,/wiki/Detroit_Mercy_Titans,https://upload.wikimedia.org/wikipedia/en/a/a6/Detroit_Titans_logo.svg
+815,815,Immaculata University,Mighty Macs,Immaculata,PA,Atlantic East Conference,3,,
+816,816,Ithaca College,Bombers,Ithaca,NY,Liberty League,3,,
+817,817,John Carroll University,Blue Streaks,University Heights,OH,Ohio Athletic Conference,3,,
+818,818,John Jay College of Criminal Justice,Bloodhounds,New York,NY,City University of New York Athletic Conference,3,,
+819,819,Johns Hopkins University[A 11],Blue Jays,Baltimore,MD,Centennial Conference,3,,
+820,820,Johnson & Wales University,Wildcats,Providence,RI,Great Northeast Athletic Conference,3,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+821,821,Juniata College,Eagles,Huntingdon,PA,Landmark Conference,3,,
+822,822,Kalamazoo College,Hornets,Kalamazoo,MI,Michigan Intercollegiate Athletic Association,3,/wiki/Delaware_State_Hornets,https://upload.wikimedia.org/wikipedia/en/d/db/Delaware_State_Hornets_logo.svg
+823,823,Kean University,Cougars,Union Township,NJ,New Jersey Athletic Conference,3,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+824,824,Keene State College,Owls,Keene,NH,Little East Conference,3,,
+825,825,Kenyon College,Lords and Ladies,Gambier,OH,North Coast Athletic Conference,3,,
+826,826,Keuka College,Wolves,Keuka Park,NY,Empire 8,3,,
+827,827,Keystone College,Giants,La Plume Township,PA,Colonial States Athletic Conference,3,,
+828,828,King's College,Monarchs,Wilkes-Barre,PA,MAC Freedom,3,/wiki/Old_Dominion_Monarchs_and_Lady_Monarchs,https://upload.wikimedia.org/wikipedia/en/b/b4/Old_Dominion_Athletics_logo.svg
+829,829,Knox College,Prairie Fire,Galesburg,IL,Midwest Conference,3,,
+830,830,La Roche University,Redhawks,Pittsburgh,PA,Allegheny Mountain Collegiate Conference,3,/wiki/Southeast_Missouri_State_Redhawks,https://upload.wikimedia.org/wikipedia/en/b/b6/SEMO_Redhawks_logo.png
+831,831,University of La Verne,Leopards,La Verne,CA,Southern California Intercollegiate Athletic Conference,3,/wiki/Lafayette_Leopards,https://upload.wikimedia.org/wikipedia/en/8/8f/Lafayette_Leopards_logo.svg
+832,832,LaGrange College,Panthers,LaGrange,GA,USA South Athletic Conference(Collegiate Conference of the South in 2022),3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+833,833,Lake Forest College,Foresters,Lake Forest,IL,Midwest Conference,3,,
+834,834,Lakeland University,Muskies,Sheboygan,WI,Northern Athletics Collegiate Conference,3,,
+835,835,Lancaster Bible College,Chargers,Lancaster,PA,United East Conference,3,,
+836,836,Lasell College,Lasers,Newton,MA,Great Northeast Athletic Conference,3,,
+837,837,Lawrence University,Vikings,Appleton,WI,Midwest Conference,3,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+838,838,Lebanon Valley College,Flying Dutchmen,Annville,PA,MAC Commonwealth,3,,
+839,839,Lehman College,Lightning,The Bronx,NY,City University of New York Athletic Conference,3,,
+840,840,Lesley University,Lynx,Boston,MA,New England Collegiate Conference,3,,
+841,841,LeTourneau University,Yellow Jackets,Longview,TX,American Southwest Conference,3,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+842,842,Lewis & Clark College,Pioneers,Portland,OR,Northwest Conference,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+843,843,Linfield University,Wildcats,McMinnville,OR,Northwest Conference,3,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+844,844,Loras College,Duhawks,Dubuque,IA,American Rivers Conference,3,,
+845,845,Luther College,Norse,Decorah,IA,American Rivers Conference,3,/wiki/Northern_Kentucky_Norse,https://upload.wikimedia.org/wikipedia/en/4/45/Northern_Kentucky_Norse_logo.svg
+846,846,Lycoming College,Warriors,Williamsport,PA,MAC Freedom(Landmark Conference in 2023),3,,
+847,847,Lynchburg College,Hornets,Lynchburg,VA,Old Dominion Athletic Conference,3,/wiki/Delaware_State_Hornets,https://upload.wikimedia.org/wikipedia/en/d/db/Delaware_State_Hornets_logo.svg
+848,848,Macalester College,Scots,St. Paul,MN,Minnesota Intercollegiate Athletic Conference,3,,
+849,849,University of Maine at Farmington,Beavers,Farmington,ME,North Atlantic Conference,3,/wiki/Oregon_State_Beavers,https://upload.wikimedia.org/wikipedia/en/1/1b/Oregon_State_Beavers_logo.svg
+850,850,Maine Maritime Academy,Mariners,Castine,ME,North Atlantic Conference,3,,
+851,851,University of Maine at Presque Isle,Owls,Presque Isle,ME,North Atlantic Conference,3,,
+852,852,Manchester University,Spartans,North Manchester,IN,Heartland Collegiate Athletic Conference,3,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
+853,853,Manhattanville College,Valiants,Purchase,NY,Skyline Conference,3,,
+854,854,Maranatha Baptist University,Sabercats,Watertown,WI,Independent,3,,
+855,855,Marian University,Sabres,Fond du Lac,WI,Northern Athletics Collegiate Conference,3,,
+856,856,Marietta College,Pioneers,Marietta,OH,Ohio Athletic Conference,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+857,857,Martin Luther College,Knights,New Ulm,MN,Upper Midwest Athletic Conference,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+858,858,Mary Baldwin University,Fighting Squirrels,Staunton,VA,USA South Athletic Conference,3,,
+859,859,University of Mary Hardin–Baylor,Crusaders,Belton,TX,American Southwest Conference,3,/wiki/Holy_Cross_Crusaders,https://upload.wikimedia.org/wikipedia/commons/f/f5/Holy_Cross_Crusaders_logo.svg
+860,860,University of Mary Washington,Eagles,Fredericksburg,VA,Coast to Coast Athletic Conference,3,,
+861,861,Marymount University,Saints,Arlington,VA,Atlantic East Conference,3,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+862,862,Maryville College,Scots,Maryville,TN,USA South Athletic Conference(Collegiate Conference of the South in 2022),3,,
+863,863,Marywood University,Pacers,Scranton,PA,Atlantic East Conference,3,,
+864,864,University of Massachusetts Boston,Beacons,Boston,MA,Little East Conference,3,/wiki/Valparaiso_Beacons,https://upload.wikimedia.org/wikipedia/en/e/eb/Valparaiso_Beacons.jpg
+865,865,Massachusetts College of Liberal Arts,Trailblazers,North Adams,MA,Massachusetts State Collegiate Athletic Conference,3,,
+866,866,University of Massachusetts Dartmouth,Corsairs,Dartmouth,MA,Little East Conference,3,,
+867,867,Massachusetts Institute of Technology (MIT)[A 12],Engineers,Cambridge,MA,New England Women's and Men's Athletic Conference,3,,
+868,868,Massachusetts Maritime Academy,Buccaneers,Buzzards Bay,MA,Massachusetts State Collegiate Athletic Conference,3,/wiki/East_Tennessee_State_Buccaneers,https://upload.wikimedia.org/wikipedia/commons/a/ab/East_Tennessee_State_Buccaneers_logo.svg
+869,869,McDaniel College,Green Terror,Westminster,MD,Centennial Conference,3,,
+870,870,McMurry University,War Hawks,Abilene,TX,American Southwest Conference,3,,
+871,871,Medaille College,Mavericks,Buffalo,NY,Allegheny Mountain Collegiate Conference(Empire 8 in 2022),3,/wiki/Omaha_Mavericks,https://upload.wikimedia.org/wikipedia/commons/7/73/Omaha_Mavericks_logo.svg
+872,872,Medgar Evers College,Cougars,Brooklyn,NY,City University of New York Athletic Conference,3,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+873,873,Meredith College,Angels,Raleigh,NC,USA South Athletic Conference,3,,
+874,874,Messiah University,Falcons,Grantham,PA,MAC Commonwealth,3,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+875,875,Methodist University,Monarchs,Fayetteville,NC,USA South Athletic Conference,3,/wiki/Old_Dominion_Monarchs_and_Lady_Monarchs,https://upload.wikimedia.org/wikipedia/en/b/b4/Old_Dominion_Athletics_logo.svg
+876,876,Middlebury College,Panthers,Middlebury,VT,New England Small College Athletic Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+877,877,Millikin University,Big Blue,Decatur,IL,College Conference of Illinois and Wisconsin,3,,
+878,878,Mills College [A 13],Cyclones,Oakland,CA,Coast to Coast Athletic Conference,3,,
+879,879,Millsaps College,Majors and Lady Majors,Jackson,MS,Southern Athletic Association,3,,
+880,880,Milwaukee School of Engineering,Raiders,Milwaukee,WI,Northern Athletics Collegiate Conference,3,/wiki/Wright_State_Raiders,https://upload.wikimedia.org/wikipedia/en/c/c2/Wright_State_Raiders_logo.svg
+881,881,University of Minnesota Morris,Cougars,Morris,MN,Upper Midwest Athletic Conference,3,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+882,882,Misericordia University,Cougars,Dallas,PA,MAC Freedom,3,/wiki/Washington_State_Cougars,https://upload.wikimedia.org/wikipedia/en/0/07/Washington_State_Cougars_logo.svg
+883,883,Mississippi University for Women[A 14],Owls,Columbus,MS,Independent(St. Louis Intercollegiate Athletic Conference in 2022),3,,
+884,884,Mitchell College,Mariners,New London,CT,New England Collegiate Conference,3,,
+885,885,Monmouth College,Scots,Monmouth,IL,Midwest Conference,3,,
+886,886,Montclair State University,Red Hawks,Montclair,NJ,New Jersey Athletic Conference,3,,
+887,887,Moravian College,Greyhounds,Bethlehem,PA,Landmark Conference,3,/wiki/Loyola_Greyhounds,https://upload.wikimedia.org/wikipedia/en/e/e5/Loyola_Greyhounds_Official_Logo.png
+888,888,Morrisville State College,Mustangs,Morrisville,NY,United East Conference,3,/wiki/SMU_Mustangs,https://upload.wikimedia.org/wikipedia/commons/3/33/SMU_Mustang_logo.svg
+889,889,Mount Aloysius College,Mounties,Cresson,PA,Allegheny Mountain Collegiate Conference,3,,
+890,890,Mount Holyoke College,Lyons,South Hadley,MA,New England Women's and Men's Athletic Conference,3,,
+891,891,Mount Mary University,Blue Angels,Milwaukee,WI,Coast to Coast Athletic Conference,3,,
+892,892,Mount St. Joseph University,Lions,Cincinnati,OH,Heartland Collegiate Athletic Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+893,893,Mount Saint Mary College,Knights,Newburgh,NY,Skyline Conference,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+894,894,College of Mount Saint Vincent,Dolphins,The Bronx,NY,Skyline Conference,3,/wiki/Jacksonville_Dolphins,https://upload.wikimedia.org/wikipedia/commons/e/e3/Jacksonville_Dolphins_logo_2018.svg
+895,895,University of Mount Union,Purple Raiders,Alliance,OH,Ohio Athletic Conference,3,,
+896,896,Muhlenberg College,Mules,Allentown,PA,Centennial Conference,3,,
+897,897,Muskingum University,Fighting Muskies,New Concord,OH,Ohio Athletic Conference,3,,
+898,898,Nazareth College,Golden Flyers,Pittsford,NY,Empire 8,3,,
+899,899,Nebraska Wesleyan University,Prairie Wolves,Lincoln,NE,American Rivers Conference,3,,
+900,900,Neumann University,Knights,Aston,PA,Atlantic East Conference,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+901,901,New England College,Pilgrims,Henniker,NH,New England Collegiate Conference,3,,
+902,902,University of New England,Nor'easters,Biddeford,ME,Commonwealth Coast Conference,3,,
+903,903,The College of New Jersey,Lions,Ewing,NJ,New Jersey Athletic Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+904,904,New Jersey City University,Gothic Knights,Jersey City,NJ,New Jersey Athletic Conference,3,,
+905,905,State University of New York at Brockport,Golden Eagles,Brockport,NY,State University of New York Athletic Conference,3,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+906,906,State University of New York at Canton,Kangaroos,Canton,NY,North Atlantic Conference,3,,
+907,907,State University of New York at Cobleskill,Fighting Tigers,Cobleskill,NY,North Atlantic Conference,3,,
+908,908,State University of New York at Cortland,Red Dragons,Cortland,NY,State University of New York Athletic Conference,3,,
+909,909,State University of New York at Delhi,Broncos,Delhi,NY,North Atlantic Conference,3,/wiki/Western_Michigan_Broncos,https://upload.wikimedia.org/wikipedia/en/b/b0/Western_Michigan_Broncos_%282021%29_logo.svg
+910,910,State University of New York at Fredonia,Blue Devils,Fredonia,NY,State University of New York Athletic Conference,3,/wiki/Duke_Blue_Devils,https://upload.wikimedia.org/wikipedia/commons/e/e1/Duke_Athletics_logo.svg
+911,911,State University of New York at Geneseo,Knights,Geneseo,NY,State University of New York Athletic Conference,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+912,912,State University of New York Maritime College,Privateers,The Bronx,NY,Skyline Conference,3,/wiki/New_Orleans_Privateers,https://upload.wikimedia.org/wikipedia/en/2/27/New_Orleans_Privateers_logo.svg
+913,913,State University of New York Polytechnic Institute,Wildcats,Marcy,NY,North Atlantic Conference,3,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+914,914,State University of New York at New Paltz,Hawks,New Paltz,NY,State University of New York Athletic Conference,3,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+915,915,State University of New York at Old Westbury,Panthers,Old Westbury,NY,Skyline Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+916,916,State University of New York at Oneonta,Red Dragons,Oneonta,NY,State University of New York Athletic Conference,3,,
+917,917,State University of New York at Oswego,Lakers,Oswego,NY,State University of New York Athletic Conference,3,,
+918,918,State University of New York at Plattsburgh,Cardinals,Plattsburgh,NY,State University of New York Athletic Conference,3,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+919,919,State University of New York at Potsdam,Bears,Potsdam,NY,State University of New York Athletic Conference,3,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+920,920,State University of New York at Purchase,Panthers,Purchase,NY,Skyline Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+921,921,New York University (NYU),Violets,New York,NY,University Athletic Association,3,,
+922,922,Nichols College,Bison,Dudley,MA,Commonwealth Coast Conference,3,/wiki/North_Dakota_State_Bison,https://upload.wikimedia.org/wikipedia/en/7/74/North_Dakota_State_Bison_logo.svg
+923,923,North Carolina Wesleyan College,Bishops,Rocky Mount,NC,USA South Athletic Conference,3,,
+924,924,North Central College,Cardinals,Naperville,IL,College Conference of Illinois and Wisconsin,3,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+925,925,North Central University,Rams,Minneapolis,MN,Upper Midwest Athletic Conference,3,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+926,926,North Park University,Vikings,Chicago,IL,College Conference of Illinois and Wisconsin,3,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+927,927,Northern Vermont University–Johnson,Badgers,Johnson,VT,North Atlantic Conference,3,/wiki/Wisconsin_Badgers,https://upload.wikimedia.org/wikipedia/commons/e/e5/Wisconsin_Badgers_logo.svg
+928,928,Northern Vermont University–Lyndon,Hornets,Lyndonville,VT,North Atlantic Conference,3,/wiki/Delaware_State_Hornets,https://upload.wikimedia.org/wikipedia/en/d/db/Delaware_State_Hornets_logo.svg
+929,929,Northland College,Lumberjacks and Lumberjills,Ashland,WI,Upper Midwest Athletic Conference,3,,
+930,930,University of Northwestern – St. Paul,Eagles,Roseville,MN,Upper Midwest Athletic Conference,3,,
+931,931,Norwich University,Cadets,Northfield,VT,Great Northeast Athletic Conference,3,,
+932,932,Notre Dame of Maryland University,Gators,Baltimore,MD,Colonial States Athletic Conference,3,/wiki/Florida_Gators,https://upload.wikimedia.org/wikipedia/en/1/14/Florida_Gators_gator_logo.svg
+933,933,Oberlin College,Yeomen and Yeowomen,Oberlin,OH,North Coast Athletic Conference,3,,
+934,934,Occidental College,Tigers,Los Angeles,CA,Southern California Intercollegiate Athletic Conference,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+935,935,Oglethorpe University,Stormy Petrels,Atlanta,GA,Southern Athletic Association,3,,
+936,936,Ohio Northern University,Polar Bears,Ada,OH,Ohio Athletic Conference,3,,
+937,937,Ohio Wesleyan University,Battling Bishops,Delaware,OH,North Coast Athletic Conference,3,,
+938,938,Olivet College,Comets,Olivet,MI,Michigan Intercollegiate Athletic Association,3,,
+939,939,Otterbein University,Cardinals,Westerville,OH,Ohio Athletic Conference,3,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+940,940,University of the Ozarks,Eagles,Clarksville,AR,American Southwest Conference,3,,
+941,941,Pacific Lutheran University,Lutes,Tacoma,WA,Northwest Conference,3,,
+942,942,Pacific University,Boxers,Forest Grove,OR,Northwest Conference,3,,
+943,943,Pennsylvania College of Technology,Wildcats,Williamsport,PA,United East Conference,3,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+944,944,"Pennsylvania State University, Abington",Nittany Lions,Abington,PA,United East Conference,3,/wiki/Penn_State_Nittany_Lions,https://upload.wikimedia.org/wikipedia/en/3/3a/Penn_State_Nittany_Lions_logo.svg
+945,945,"Pennsylvania State University, Altoona",Lions,Altoona,PA,Allegheny Mountain Collegiate Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+946,946,"Pennsylvania State University, Berks College",Nittany Lions,Reading,PA,United East Conference,3,/wiki/Penn_State_Nittany_Lions,https://upload.wikimedia.org/wikipedia/en/3/3a/Penn_State_Nittany_Lions_logo.svg
+947,947,"Pennsylvania State University, Erie",Lions,Erie,PA,Allegheny Mountain Collegiate Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+948,948,"Pennsylvania State University, Harrisburg",Lions,Harrisburg,PA,United East Conference,3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+949,949,Pfeiffer University,Falcons,Misenheimer,NC,USA South Athletic Conference,3,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+950,950,Piedmont University,Lions,Demorest,GA,USA South Athletic Conference(Collegiate Conference of the South in 2022),3,/wiki/Texas_A%26M%E2%80%93Commerce_Lions,https://upload.wikimedia.org/wikipedia/en/f/f8/Texas_A%26M%E2%80%93Commerce_Lions_logo.svg
+951,951,University of Pittsburgh at Bradford,Panthers,Bradford,PA,Allegheny Mountain Collegiate Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+952,952,University of Pittsburgh at Greensburg,Bobcats,Greensburg,PA,Allegheny Mountain Collegiate Conference,3,/wiki/Ohio_Bobcats,https://upload.wikimedia.org/wikipedia/en/7/78/Ohio_Bobcats_logo.svg
+953,953,Plymouth State University,Panthers,Plymouth,NH,Little East Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+954,954,Pomona College and Pitzer College,Sagehens,Claremont,CA,Southern California Intercollegiate Athletic Conference,3,,
+955,955,Pratt Institute[A 14],Cannoneers,Brooklyn,NY,Coast to Coast Athletic Conference,3,,
+956,956,Principia College,Panthers,Elsah,IL,St. Louis Intercollegiate Athletic Conference,3,/wiki/Milwaukee_Panthers,https://upload.wikimedia.org/wikipedia/commons/3/36/Milwaukee_Panthers_letter_logo.svg
+957,957,University of Puget Sound,Loggers,Tacoma,WA,Northwest Conference,3,,
+958,958,Ramapo College,Roadrunners,Mahwah,NJ,New Jersey Athletic Conference,3,/wiki/UTSA_Roadrunners,https://upload.wikimedia.org/wikipedia/commons/8/84/UTSA_Roadrunners_logo.svg
+959,959,Randolph College,WildCats,Lynchburg,VA,Old Dominion Athletic Conference,3,,
+960,960,Randolph–Macon College,Yellow Jackets,Ashland,VA,Old Dominion Athletic Conference,3,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+961,961,University of Redlands,Bulldogs,Redlands,CA,Southern California Intercollegiate Athletic Conference,3,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+962,962,Regis College,Pride,Weston,MA,Great Northeast Athletic Conference,3,/wiki/Hofstra_Pride,https://upload.wikimedia.org/wikipedia/en/1/12/Hofstra_Pride_logo.svg
+963,963,Rensselaer Polytechnic Institute[A 5][A 6],Engineers,Troy,NY,Liberty League,3,,
+964,964,Rhode Island College,Anchormen,Providence,RI,Little East Conference,3,,
+965,965,Rhodes College,Lynx,Memphis,TN,Southern Athletic Association,3,,
+966,966,Ripon College,Red Hawks,Ripon,WI,Midwest Conference,3,,
+967,967,Rivier University,Raiders,Nashua,NH,Great Northeast Athletic Conference,3,/wiki/Wright_State_Raiders,https://upload.wikimedia.org/wikipedia/en/c/c2/Wright_State_Raiders_logo.svg
+968,968,Roanoke College,Maroons,Salem,VA,Old Dominion Athletic Conference,3,,
+969,969,University of Rochester,Yellowjackets,Rochester,NY,University Athletic Association,3,,
+970,970,Rochester Institute of Technology[A 15][A 16],Tigers,Rochester,NY,Liberty League,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+971,971,Rockford University,Regents,Rockford,IL,Northern Athletics Collegiate Conference,3,,
+972,972,Roger Williams University,Hawks,Bristol,RI,Commonwealth Coast Conference,3,/wiki/UMES_Hawks,https://upload.wikimedia.org/wikipedia/en/6/65/Maryland_Eastern_Shore_Hawks_logo.svg
+973,973,Rose-Hulman Institute of Technology,Fightin' Engineers,Terre Haute,IN,Heartland Collegiate Athletic Conference,3,,
+974,974,Rosemont College,Ravens,Rosement,PA,Colonial States Athletic Conference,3,,
+975,975,Rowan University,Profs,Glassboro,NJ,New Jersey Athletic Conference,3,,
+976,976,Rutgers University–Camden,Scarlet Raptors,Camden,NJ,New Jersey Athletic Conference,3,,
+977,977,Rutgers University–Newark,Scarlet Raiders,Newark,NJ,New Jersey Athletic Conference,3,,
+978,978,Russell Sage College,Gators,Albany & Troy,NY,Empire 8,3,/wiki/Florida_Gators,https://upload.wikimedia.org/wikipedia/en/1/14/Florida_Gators_gator_logo.svg
+979,979,College of Saint Benedict,Bennies,St. Joseph,MN,Minnesota Intercollegiate Athletic Conference,3,,
+980,980,St. Catherine University,Wildcats,St. Paul,MN,Minnesota Intercollegiate Athletic Conference,3,/wiki/Weber_State_Wildcats,https://upload.wikimedia.org/wikipedia/en/f/f2/Weber_State_Wildcats_logo.svg
+981,981,Saint Elizabeth University,Screaming Eagles,Convent Station,NJ,United East Conference,3,/wiki/Southern_Indiana_Screaming_Eagles,https://upload.wikimedia.org/wikipedia/en/8/80/University_of_Southern_Indiana_Athletics_Logo.png
+982,982,St. John Fisher College,Cardinals,Pittsford,NY,Empire 8,3,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+983,983,Saint John's University,Johnnies,Collegeville,MN,Minnesota Intercollegiate Athletic Conference,3,,
+984,984,University of Saint Joseph,Blue Jays,West Hartford,CT,Great Northeast Athletic Conference,3,,
+985,985,St. Joseph's College (Brooklyn),Bears,Brooklyn,NY,Skyline Conference,3,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+986,986,St. Joseph's College (Long Island),Golden Eagles,Long Island,NY,Skyline Conference,3,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+987,987,Saint Joseph's College of Maine,Monks,Standish,ME,Great Northeast Athletic Conference,3,,
+988,988,St. Lawrence University[A 5][A 6],Saints,Canton,NY,Liberty League,3,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+989,989,Saint Mary's College,Belles,Notre Dame,IN,Michigan Intercollegiate Athletic Association,3,,
+990,990,St. Mary's College of Maryland,Seahawks,St. Mary's City,MD,United East Conference,3,/wiki/Wagner_Seahawks,https://upload.wikimedia.org/wikipedia/en/6/63/Wagner_Seahawks_logo.svg
+991,991,Saint Mary's University of Minnesota,Cardinals,Winona,MN,Minnesota Intercollegiate Athletic Conference,3,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+992,992,St. Norbert College,Green Knights,De Pere,WI,Northern Athletics Collegiate Conference,3,,
+993,993,St. Olaf College,Oles,Northfield,MN,Minnesota Intercollegiate Athletic Conference,3,,
+994,994,The College of St. Scholastica,Saints,Duluth,MN,Minnesota Intercollegiate Athletic Conference,3,/wiki/Siena_Saints,https://upload.wikimedia.org/wikipedia/en/7/78/Siena_Saints_logo.svg
+995,995,University of St. Thomas (Texas)[A 14],Celts,Houston,TX,Southern Collegiate Athletic Conference,3,,
+996,996,Saint Vincent College,Bearcats,Latrobe,PA,Presidents' Athletic Conference,3,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+997,997,Salem College,Spirits,Winston-Salem,NC,USA South Athletic Conference,3,,
+998,998,Salem State University,Vikings,Salem,MA,Massachusetts State Collegiate Athletic Conference,3,/wiki/Portland_State_Vikings,https://upload.wikimedia.org/wikipedia/commons/4/48/Portland_State_Vikings_logo.svg
+999,999,Salisbury University,Sea Gulls,Salisbury,MD,Coast to Coast Athletic Conference,3,,
+1000,1000,Salve Regina University,Seahawks,Newport,RI,Commonwealth Coast Conference,3,/wiki/Wagner_Seahawks,https://upload.wikimedia.org/wikipedia/en/6/63/Wagner_Seahawks_logo.svg
+1001,1001,Sarah Lawrence College,Gryphons,Yonkers,NY,Skyline Conference,3,,
+1002,1002,Schreiner University,Mountaineers,Kerrville,TX,Southern Collegiate Athletic Conference,3,/wiki/West_Virginia_Mountaineers,https://upload.wikimedia.org/wikipedia/commons/e/e8/West_Virginia_Mountaineers_logo.svg
+1003,1003,University of Scranton,Royals,Scranton,PA,Landmark Conference,3,/wiki/Queens_Royals,https://upload.wikimedia.org/wikipedia/en/e/e0/Queens_Royals_primary_logo.svg
+1004,1004,Sewanee: The University of the South,Tigers,Sewanee,TN,Southern Athletic Association,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+1005,1005,Shenandoah University,Hornets,Winchester,VA,Old Dominion Athletic Conference,3,/wiki/Delaware_State_Hornets,https://upload.wikimedia.org/wikipedia/en/d/db/Delaware_State_Hornets_logo.svg
+1006,1006,Simmons University,Sharks,Boston,MA,Great Northeast Athletic Conference,3,/wiki/LIU_Sharks,https://upload.wikimedia.org/wikipedia/en/f/fd/LIU_Sharks_logo.svg
+1007,1007,Simpson College,Storm,Indianola,IA,American Rivers Conference,3,,
+1008,1008,Skidmore College,Thoroughbreds,Saratoga Springs,NY,Liberty League,3,,
+1009,1009,Smith College,Pioneers,Northampton,MA,New England Women's and Men's Athletic Conference,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+1010,1010,University of Southern Maine,Huskies,Portland,ME,Little East Conference,3,/wiki/Washington_Huskies,https://upload.wikimedia.org/wikipedia/commons/1/17/Washington_Huskies_logo.svg
+1011,1011,Southern Virginia University,Knights,Buena Vista,VA,USA South Athletic Conference,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+1012,1012,Southwestern University,Pirates,Georgetown,TX,Southern Collegiate Athletic Conference,3,/wiki/Seton_Hall_Pirates,https://upload.wikimedia.org/wikipedia/en/e/e1/Seton_Hall_Pirates_logo.svg
+1013,1013,Spalding University,Golden Eagles,Louisville,KY,St. Louis Intercollegiate Athletic Conference,3,/wiki/Southern_Miss_Golden_Eagles,https://upload.wikimedia.org/wikipedia/en/5/5d/Southern_Miss_Athletics_logo.svg
+1014,1014,Springfield College,Pride,Springfield,MA,New England Women's and Men's Athletic Conference,3,/wiki/Hofstra_Pride,https://upload.wikimedia.org/wikipedia/en/1/12/Hofstra_Pride_logo.svg
+1015,1015,Stevens Institute of Technology,Ducks,Hoboken,NJ,MAC Freedom,3,/wiki/Oregon_Ducks,https://upload.wikimedia.org/wikipedia/commons/f/f8/Oregon_Ducks_logo.svg
+1016,1016,Stevenson University,Mustangs,Stevenson,MD,MAC Commonwealth,3,/wiki/SMU_Mustangs,https://upload.wikimedia.org/wikipedia/commons/3/33/SMU_Mustang_logo.svg
+1017,1017,Stockton University,Ospreys,Pomona,NJ,New Jersey Athletic Conference,3,/wiki/North_Florida_Ospreys,https://upload.wikimedia.org/wikipedia/en/a/ac/North_Florida_Ospreys_logo.svg
+1018,1018,Suffolk University,Rams,Boston,MA,Commonwealth Coast Conference,3,/wiki/VCU_Rams,https://upload.wikimedia.org/wikipedia/commons/b/bf/VCU_Rams_logo.svg
+1019,1019,Sul Ross State University,Lobos,Alpine,TX,American Southwest Conference,3,/wiki/New_Mexico_Lobos,https://upload.wikimedia.org/wikipedia/en/4/45/New_Mexico_Lobos_logo.svg
+1020,1020,Susquehanna University,River Hawks,Selinsgrove,PA,Landmark Conference,3,/wiki/UMass_Lowell_River_Hawks,https://upload.wikimedia.org/wikipedia/en/4/43/UMass_Lowell_River_Hawks_logo.svg
+1021,1021,Swarthmore College,Garnet,Swarthmore,PA,Centennial Conference,3,,
+1022,1022,Sweet Briar College,Vixens,Sweet Briar,VA,Old Dominion Athletic Conference,3,,
+1023,1023,University of Texas at Dallas,Comets,Dallas,TX,American Southwest Conference,3,,
+1024,1024,Texas Lutheran University,Bulldogs,Seguin,TX,Southern Collegiate Athletic Conference,3,/wiki/Yale_Bulldogs,https://upload.wikimedia.org/wikipedia/en/e/e5/Yale_Bulldogs_logo.svg
+1025,1025,Thiel College,Tomcats,Greenville,PA,Presidents' Athletic Conference,3,,
+1026,1026,Thomas College,Terriers,Waterville,ME,North Atlantic Conference,3,/wiki/Wofford_Terriers,https://upload.wikimedia.org/wikipedia/en/5/5b/Wofford_Terriers_logo.svg
+1027,1027,Transylvania University,Pioneers,Lexington,KY,Heartland Collegiate Athletic Conference,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+1028,1028,Trine University,Thunder,Angola,IN,Michigan Intercollegiate Athletic Association,3,,
+1029,1029,Trinity College,Bantams,Hartford,CT,New England Small College Athletic Conference,3,,
+1030,1030,Trinity University,Tigers,San Antonio,TX,Southern Collegiate Athletic Conference,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+1031,1031,Trinity Washington University,Tigers,Washington,DC,Independent,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+1032,1032,Tufts University,Jumbos,Medford,MA,New England Small College Athletic Conference,3,,
+1033,1033,Union College[A 15][A 16],Dutchmen and Dutchwomen,Schenectady,NY,Liberty League,3,,
+1034,1034,United States Coast Guard Academy (Coast Guard),Bears,New London,CT,New England Women's and Men's Athletic Conference,3,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+1035,1035,United States Merchant Marine Academy (Merchant Marine),Mariners,Kings Point,NY,Skyline Conference,3,,
+1036,1036,Ursinus College,Bears,Collegeville,PA,Centennial Conference,3,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+1037,1037,Utica College,Pioneers,Utica,NY,Empire 8,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+1038,1038,University of Valley Forge,Patriots,Phoenixville,PA,Colonial States Athletic Conference,3,/wiki/George_Mason_Patriots,https://upload.wikimedia.org/wikipedia/en/f/f8/George_Mason_Patriots_logo.svg
+1039,1039,Vassar College,Brewers,Poughkeepsie,NY,Liberty League,3,,
+1040,1040,Virginia Wesleyan University,Marlins,Virginia Beach,VA,Old Dominion Athletic Conference,3,,
+1041,1041,Wabash College,Little Giants,Crawfordsville,IN,North Coast Athletic Conference,3,,
+1042,1042,Warren Wilson College[A 2],Owls,Swannanoa,NC,Independent,3,,
+1043,1043,Wartburg College,Knights,Waverly,IA,American Rivers Conference,3,/wiki/UCF_Knights,https://upload.wikimedia.org/wikipedia/commons/f/fd/UCF_Knights_logo.svg
+1044,1044,Washington & Jefferson College,Presidents,Washington,PA,Presidents' Athletic Conference,3,,
+1045,1045,Washington and Lee University,Generals,Lexington,VA,Old Dominion Athletic Conference,3,,
+1046,1046,Washington College,Shoremen,Chestertown,MD,Centennial Conference,3,,
+1047,1047,Washington University in St. Louis,Bears,St. Louis,MO,University Athletic Association,3,/wiki/Northern_Colorado_Bears,https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg
+1048,1048,Waynesburg University,Yellow Jackets,Waynesburg,PA,Presidents' Athletic Conference,3,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+1049,1049,Webster University,Gorloks,St. Louis,MO,St. Louis Intercollegiate Athletic Conference,3,,
+1050,1050,Wellesley College,Blue,Wellesley,MA,New England Women's and Men's Athletic Conference,3,,
+1051,1051,Wells College,Express,Aurora,NY,United East Conference,3,,
+1052,1052,Wentworth Institute of Technology,Leopards,Boston,MA,Commonwealth Coast Conference,3,/wiki/Lafayette_Leopards,https://upload.wikimedia.org/wikipedia/en/8/8f/Lafayette_Leopards_logo.svg
+1053,1053,Wesleyan College,Wolves,Macon,GA,USA South Athletic Conference(Collegiate Conference of the South in 2022),3,,
+1054,1054,Wesleyan University,Cardinals,Middletown,CT,New England Small College Athletic Conference,3,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+1055,1055,Western Connecticut State University,Colonials,Danbury,CT,Little East Conference,3,/wiki/George_Washington_Colonials,https://upload.wikimedia.org/wikipedia/commons/a/aa/George_Washington_Colonials_logo.svg
+1056,1056,Western New England University,Golden Bears,Springfield,MA,Commonwealth Coast Conference,3,/wiki/California_Golden_Bears,https://upload.wikimedia.org/wikipedia/commons/8/8b/California_Golden_Bears_logo.svg
+1057,1057,Westfield State University,Owls,Westfield,MA,Massachusetts State Collegiate Athletic Conference,3,,
+1058,1058,Westminster College,Blue Jays,Fulton,MO,St. Louis Intercollegiate Athletic Conference,3,,
+1059,1059,Westminster College,Titans,New Wilmington,PA,Presidents' Athletic Conference,3,/wiki/Detroit_Mercy_Titans,https://upload.wikimedia.org/wikipedia/en/a/a6/Detroit_Titans_logo.svg
+1060,1060,Wheaton College,Thunder,Wheaton,IL,College Conference of Illinois and Wisconsin,3,,
+1061,1061,Wheaton College,Lyons,Norton,MA,New England Women's and Men's Athletic Conference,3,,
+1062,1062,Whitman College,Blues,Walla Walla,WA,Northwest Conference,3,,
+1063,1063,Whittier College,Poets,Whittier,CA,Southern California Intercollegiate Athletic Conference,3,,
+1064,1064,Whitworth University,Pirates,Spokane,WA,Northwest Conference,3,/wiki/Seton_Hall_Pirates,https://upload.wikimedia.org/wikipedia/en/e/e1/Seton_Hall_Pirates_logo.svg
+1065,1065,Widener University,Pride,Chester,PA,MAC Commonwealth,3,/wiki/Hofstra_Pride,https://upload.wikimedia.org/wikipedia/en/1/12/Hofstra_Pride_logo.svg
+1066,1066,Wilkes University,Colonels,Wilkes-Barre,PA,MAC Freedom(Landmark Conference in 2023),3,/wiki/Nicholls_Colonels,https://upload.wikimedia.org/wikipedia/en/b/bb/Nicholls_State_Colonels_logo.svg
+1067,1067,Willamette University,Bearcats,Salem,OR,Northwest Conference,3,/wiki/Cincinnati_Bearcats,https://upload.wikimedia.org/wikipedia/commons/2/2c/Cincinnati_Bearcats_logo.svg
+1068,1068,William Paterson University,Pioneers,Wayne,NJ,New Jersey Athletic Conference,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+1069,1069,William Peace University,Pacers,Raleigh,NC,USA South Athletic Conference,3,,
+1070,1070,William Smith College,Herons,Geneva,NY,Liberty League,3,,
+1071,1071,Williams College,Ephs,Williamstown,MA,New England Small College Athletic Conference,3,,
+1072,1072,Wilmington College,Quakers,Wilmington,OH,Ohio Athletic Conference,3,/wiki/Penn_Quakers,https://upload.wikimedia.org/wikipedia/commons/c/c7/Penn_Quakers_logo.svg
+1073,1073,Wilson College,Phoenix,Chambersburg,PA,Colonial States Athletic Conference,3,/wiki/Green_Bay_Phoenix,https://upload.wikimedia.org/wikipedia/commons/1/17/Green_Bay_Phoenix_logo.svg
+1074,1074,University of Wisconsin–Eau Claire,Blugolds,Eau Claire,WI,Wisconsin Intercollegiate Athletic Conference,3,,
+1075,1075,University of Wisconsin–La Crosse,Eagles,La Crosse,WI,Wisconsin Intercollegiate Athletic Conference,3,,
+1076,1076,Wisconsin Lutheran College,Warriors,Milwaukee,WI,Northern Athletics Collegiate Conference,3,,
+1077,1077,University of Wisconsin–Oshkosh,Titans,Oshkosh,WI,Wisconsin Intercollegiate Athletic Conference,3,/wiki/Detroit_Mercy_Titans,https://upload.wikimedia.org/wikipedia/en/a/a6/Detroit_Titans_logo.svg
+1078,1078,University of Wisconsin–Platteville,Pioneers,Platteville,WI,Wisconsin Intercollegiate Athletic Conference,3,/wiki/Denver_Pioneers,https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Pioneers_logo.svg
+1079,1079,University of Wisconsin–River Falls,Falcons,River Falls,WI,Wisconsin Intercollegiate Athletic Conference,3,/wiki/Air_Force_Falcons,https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg
+1080,1080,University of Wisconsin–Stevens Point,Pointers,Stevens Point,WI,Wisconsin Intercollegiate Athletic Conference,3,,
+1081,1081,University of Wisconsin–Stout,Blue Devils,Menomonie,WI,Wisconsin Intercollegiate Athletic Conference,3,/wiki/Duke_Blue_Devils,https://upload.wikimedia.org/wikipedia/commons/e/e1/Duke_Athletics_logo.svg
+1082,1082,University of Wisconsin–Superior,Yellow Jackets,Superior,WI,Upper Midwest Athletic Conference,3,/wiki/Georgia_Tech_Yellow_Jackets,https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg
+1083,1083,University of Wisconsin–Whitewater,Warhawks,Whitewater,WI,Wisconsin Intercollegiate Athletic Conference,3,/wiki/Louisiana%E2%80%93Monroe_Warhawks,https://upload.wikimedia.org/wikipedia/en/c/c9/Louisiana-Monroe_Warhawks_logo.svg
+1084,1084,Wittenberg University,Tigers,Springfield,OH,North Coast Athletic Conference,3,/wiki/Pacific_Tigers,https://upload.wikimedia.org/wikipedia/en/5/5e/Pacific_Tigers_logo.svg
+1085,1085,College of Wooster,Fighting Scots,Wooster,OH,North Coast Athletic Conference,3,,
+1086,1086,Worcester Polytechnic Institute,Engineers,Worcester,MA,New England Women's and Men's Athletic Conference,3,,
+1087,1087,Worcester State University,Lancers,Worcester,MA,Massachusetts State Collegiate Athletic Conference,3,/wiki/Longwood_Lancers,https://upload.wikimedia.org/wikipedia/en/5/5f/Longwood_Lancers_logo.svg
+1088,1088,Yeshiva University,Maccabees,New York,NY,Skyline Conference,3,,
+1089,1089,"York College, City University of New York",Cardinals,Queens,NY,City University of New York Athletic Conference,3,/wiki/University_of_the_Incarnate_Word_Cardinals,https://upload.wikimedia.org/wikipedia/en/e/ea/Incarnate_Word_Cardinals_logo.svg
+1090,1090,York College of Pennsylvania,Spartans,York,PA,MAC Commonwealth,3,/wiki/USC_Upstate_Spartans,https://upload.wikimedia.org/wikipedia/commons/8/8e/USC_Upstate_Spartans_logo.svg
